@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "miki-4d-chess",
+    "author": "miki_code",
+    "title": "Playable 4D chess",
+    "url": "https://x.com/miki_code/status/2096132455652549117",
+    "prompt": "Build a playable 4D chess prototype with clear piece moves across a fourth dimension and readable UI.",
+    "thumb": "assets/featured/miki-4d-chess.webp"
+  },
+  {
+    "slug": "scribble-tanks",
+    "author": "shortaktien",
+    "title": "Scribble Tanks",
+    "url": "https://x.com/shortaktien/status/2098874536028410196",
+    "prompt": "Build Scribble Tanks: a playful tank sandbox with weather, physics, animals, water, and zombies. Prioritize feel.",
+    "thumb": "assets/featured/scribble-tanks.webp"
+  },
+  {
+    "slug": "openai-logo-geo",
+    "author": "globalainomad",
+    "title": "Geometric OpenAI-logo look",
+    "url": "https://x.com/globalainomad/status/2098833443501310063",
+    "prompt": "Generate a geometric, motion-friendly take inspired by a logo silhouette. Keep it original; do not copy trademarked marks into a commercial asset.",
+    "thumb": "assets/featured/openai-logo-geo.webp"
+  },
+  {
+    "slug": "wavetable-synth",
+    "author": "android_stern",
+    "title": "Browser wavetable synth",
+    "url": "https://x.com/android_stern/status/2098834316126028265",
+    "prompt": "Build a browser wavetable synth with modulation, an FX graph, and bounce-to-sampler. Ship a playable web demo.",
+    "thumb": "assets/featured/wavetable-synth.webp"
+  },
+  {
+    "slug": "panzer-dragon",
+    "author": "yasei_no_otoko",
+    "title": "Dragon flight over flooded city",
+    "url": "https://x.com/yasei_no_otoko/status/2098833173623005666",
+    "prompt": "Create a Panzer Dragoon\u2013style dragon flight over a flooded city. Original creatures and city; do not copy commercial IP art.",
+    "thumb": "assets/featured/panzer-dragon.webp"
+  },
+  {
+    "slug": "spline-rush",
+    "author": "dandumt23",
+    "title": "Spline Rush racing",
+    "url": "https://x.com/dandumt23/status/2098839458195939612",
+    "prompt": "One-shot racing game Spline Rush on Azure Coast: satisfying handling, instant retry, polished track.",
+    "thumb": "assets/featured/spline-rush.webp"
+  },
+  {
+    "slug": "aetherfall",
+    "author": "dandumt23",
+    "title": "Aetherfall: The Twilight Expanse",
+    "url": "https://x.com/dandumt23/status/2098839718020382983",
+    "prompt": "Dark platformer across linked islands: Aetherfall \u2014 Twilight Expanse. Readable silhouettes, tight jumps.",
+    "thumb": "assets/featured/aetherfall.webp"
+  },
+  {
+    "slug": "solifan",
+    "author": "solid_fdn",
+    "title": "SOLIFAN exploded workplace",
+    "url": "https://x.com/solid_fdn/status/2098910304163991874",
+    "prompt": "Exploded 3D workplace over a city map with hundreds of moving parts and clear camera choreography.",
+    "thumb": "assets/featured/solifan.webp"
+  },
+  {
+    "slug": "thumper-rhythm",
+    "author": "GZhan57",
+    "title": "Browser rhythm game (Thumper-like)",
+    "url": "https://x.com/GZhan57/status/2098555255596450022",
+    "prompt": "Browser rhythm game inspired by Thumper feel using WASM + WebGPU. Original track art; do not copy commercial IP.",
+    "thumb": "assets/featured/thumper-rhythm.webp"
+  },
+  {
+    "slug": "blob-game",
+    "author": "SimonasLTU1",
+    "title": "Blob game",
+    "url": "https://x.com/SimonasLTU1/status/2098011856128332214",
+    "prompt": "Build a polished blob physics game. Note model used (Astra or other) in the README.",
+    "thumb": "assets/featured/blob-game.webp"
+  },
+  {
+    "slug": "blender-seedance",
+    "author": "KanaWorks_AI",
+    "title": "Blender \u00d7 Seedance one-take",
+    "url": "https://x.com/KanaWorks_AI/status/2098586768174203155",
+    "prompt": "Blender \u00d7 Seedance 2.5 one-take: prefer open scenes over cluttered interiors; keep camera continuous.",
+    "thumb": "assets/featured/blender-seedance.webp"
+  },
+  {
+    "slug": "shinkansen-panic",
+    "author": "KanaWorks_AI",
+    "title": "Shinkansen crash panic film",
+    "url": "https://x.com/KanaWorks_AI/status/2097604098900021513",
+    "prompt": "Blender \u00d7 Seedance panic-film piece with a shinkansen crash motif. Fictional; no real-incident claims.",
+    "thumb": "assets/featured/shinkansen-panic.webp"
+  },
+  {
+    "slug": "rp2040-pcb",
+    "author": "PinoZlatan",
+    "title": "RP2040 PCB Studio prototype",
+    "url": "https://x.com/PinoZlatan/status/2098945126563205268",
+    "prompt": "RP2040 controller: schematic, BOM, provisional 3D in a PCB studio app. Document assumptions.",
+    "thumb": "assets/featured/rp2040-pcb.webp"
+  },
+  {
+    "slug": "hs-math",
+    "author": "Xian0063",
+    "title": "Interactive high-school math",
+    "url": "https://x.com/Xian0063/status/2096046406951903398",
+    "prompt": "Interactive high-school math course with lessons, manipulables, and software delivery.",
+    "thumb": "assets/featured/hs-math.webp"
+  },
+  {
+    "slug": "astra-directory",
+    "author": "AnupPandey_X",
+    "title": "Astra.directory galaxy index",
+    "url": "https://x.com/AnupPandey_X/status/2098828020652093444",
+    "prompt": "Galaxy-style index of independent Astra builds with links out to each project.",
+    "thumb": "assets/featured/astra-directory.webp"
+  }
+]

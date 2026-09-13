@@ -7,22 +7,24 @@
   <a href="README.zh-CN.md"><img alt="简体中文" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-64748b?style=flat-square"></a>
 </p>
 
-<a href="https://easyveo.com?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_gpt6_astra_prompts&amp;utm_content=readme_hero"><img src="assets/hero.webp" width="100%" alt="Awesome GPT-6 Astra Prompts — Remake the winner. Keep your product."></a>
+<a href="https://easyveo.com?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_gpt6_astra_prompts&amp;utm_content=readme_hero"><img src="assets/hero.webp" width="100%" alt="Awesome GPT-6 Astra Prompts"></a>
 
 **A starting point for your next Astra build — or your next AI video ad remake.**
 
-Explore GPT-6 Astra community demos (games, Blender, Three.js, Unreal) and EasyVeo remake prompts.
+Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**Seed: [GPT-6 Astra by our community](https://x.com/OpenAIDevs/status/2098827327832822014) (@OpenAIDevs) · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
-
-**15+ examples · EN + ZH stub · EasyVeo remake lane**
+**31 examples · EN + ZH stub · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://x.com/NURM_Dima/status/2096534403610562910"><img src="assets/featured/nurm-coral.webp" width="420" loading="lazy" alt="Alex and the Inkstorm platformer"></a><br><strong><a href="#alex-and-the-inkstorm">Alex and the Inkstorm</a></strong><br><sub><a href="https://x.com/NURM_Dima/status/2096534403610562910">@NURM_Dima</a></sub><br><a href="#alex-and-the-inkstorm">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://x.com/pallavmac/status/2097016391903657991"><img src="assets/featured/pallav-tron.webp" width="420" loading="lazy" alt="Tron lightcycle Blender to Unreal"></a><br><strong><a href="#tron-lightcycle-to-playable">Tron lightcycle → playable</a></strong><br><sub><a href="https://x.com/pallavmac/status/2097016391903657991">@pallavmac</a></sub><br><a href="#tron-lightcycle-to-playable">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://x.com/NURM_Dima/status/2096534403610562910"><img src="assets/featured/nurm-coral.webp" width="420" loading="lazy" alt="Alex and the Inkstorm"></a><br><strong><a href="#alex-and-the-inkstorm">Alex and the Inkstorm</a></strong><br><sub><a href="https://x.com/NURM_Dima/status/2096534403610562910">@NURM_Dima</a></sub><br><a href="#alex-and-the-inkstorm">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://x.com/pallavmac/status/2097016391903657991"><img src="assets/featured/pallav-tron.webp" width="420" loading="lazy" alt="Tron lightcycle"></a><br><strong><a href="#tron-lightcycle-to-playable">Tron lightcycle → playable</a></strong><br><sub><a href="https://x.com/pallavmac/status/2097016391903657991">@pallavmac</a></sub><br><a href="#tron-lightcycle-to-playable">Prompt →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/miki_code/status/2096132455652549117"><img src="assets/featured/miki-4d-chess.webp" width="420" loading="lazy" alt="4D chess"></a><br><strong><a href="#miki-4d-chess">Playable 4D chess</a></strong><br><sub><a href="https://x.com/miki_code/status/2096132455652549117">@miki_code</a></sub><br><a href="#miki-4d-chess">Prompt →</a></td>
+<td width="50%" valign="top"><a href="https://x.com/shortaktien/status/2098874536028410196"><img src="assets/featured/scribble-tanks.webp" width="420" loading="lazy" alt="Scribble Tanks"></a><br><strong><a href="#scribble-tanks">Scribble Tanks</a></strong><br><sub><a href="https://x.com/shortaktien/status/2098874536028410196">@shortaktien</a></sub><br><a href="#scribble-tanks">Prompt →</a></td>
 </tr>
 </table>
 
@@ -35,9 +37,24 @@ Explore GPT-6 Astra community demos (games, Blender, Three.js, Unreal) and EasyV
 
 - [Alex and the Inkstorm](#alex-and-the-inkstorm) · video
 - [Tron lightcycle → playable](#tron-lightcycle-to-playable) · video
+- [Playable 4D chess](#miki-4d-chess) · @miki_code
+- [Scribble Tanks](#scribble-tanks) · @shortaktien
+- [Geometric OpenAI-logo look](#openai-logo-geo) · @globalainomad
+- [Browser wavetable synth](#wavetable-synth) · @android_stern
+- [Dragon flight over flooded city](#panzer-dragon) · @yasei_no_otoko
+- [Spline Rush racing](#spline-rush) · @dandumt23
+- [Aetherfall: The Twilight Expanse](#aetherfall) · @dandumt23
+- [SOLIFAN exploded workplace](#solifan) · @solid_fdn
+- [Browser rhythm game (Thumper-like)](#thumper-rhythm) · @GZhan57
+- [Blob game](#blob-game) · @SimonasLTU1
+- [Blender × Seedance one-take](#blender-seedance) · @KanaWorks_AI
+- [Shinkansen crash panic film](#shinkansen-panic) · @KanaWorks_AI
+- [RP2040 PCB Studio prototype](#rp2040-pcb) · @PinoZlatan
+- [Interactive high-school math](#hs-math) · @Xian0063
+- [Astra.directory galaxy index](#astra-directory) · @AnupPandey_X
 - [2,234 anatomical parts in 3D](#anatomical-atlas-3d)
 - [Manhattan in Unreal Engine](#manhattan-unreal)
-- [Van Gogh paintings → walkable Three.js town](#van-gogh-threejs-town)
+- [Van Gogh → walkable Three.js town](#van-gogh-threejs-town)
 - [Sweep AR vacuum coverage](#sweep-ar)
 - [Train drawing → Blender (3,295 objects)](#train-blender)
 - [Underwater browser game](#underwater-browser-game)
@@ -55,19 +72,16 @@ Explore GPT-6 Astra community demos (games, Blender, Three.js, Unreal) and EasyV
 ---
 
 ### Alex and the Inkstorm
+<a id="alex-and-the-inkstorm"></a>
 
-[NURM_Dima](https://x.com/NURM_Dima) · from OpenAI Devs thread
+[NURM_Dima](https://x.com/NURM_Dima) · reply thread
 
-<a href="https://x.com/NURM_Dima/status/2096534403610562910"><img src="assets/previews/nurm-alex-inkstorm.webp" width="640" loading="lazy" alt="Alex and the Inkstorm preview"></a>
-
-Photo of a child → hero of a 10-world platformer (iOS). Video on the original post.
+<a href="https://x.com/NURM_Dima/status/2096534403610562910"><img src="assets/previews/nurm-alex-inkstorm.webp" width="640" loading="lazy" alt="Alex and the Inkstorm"></a>
 
 **Prompt**
 
 ```text
-I uploaded a photo. Make this person the hero of an original platformer with multiple
-worlds, distinct enemies and bosses, and a gentle difficulty mode. Deliver a playable
-prototype plan (web or iOS) and art direction notes. Do not copy commercial game IP.
+I uploaded a photo. Make this person the hero of an original platformer with multiple worlds, distinct enemies and bosses, and a gentle difficulty mode. Deliver a playable prototype plan (web or iOS). Do not copy commercial game IP.
 ```
 
 [Original post](https://x.com/NURM_Dima/status/2096534403610562910) · [Back to examples](#all-prompts)
@@ -75,36 +89,286 @@ prototype plan (web or iOS) and art direction notes. Do not copy commercial game
 ---
 
 ### Tron lightcycle → playable
+<a id="tron-lightcycle-to-playable"></a>
 
-[pallavmac](https://x.com/pallavmac) · from OpenAI Devs thread
+[pallavmac](https://x.com/pallavmac) · reply thread
 
-<a href="https://x.com/pallavmac/status/2097016391903657991"><img src="assets/previews/pallav-tron-lightcycle.webp" width="640" loading="lazy" alt="Tron lightcycle preview"></a>
-
-Blender lightcycle battle → Unreal / iOS playable slice. Full video on X.
+<a href="https://x.com/pallavmac/status/2097016391903657991"><img src="assets/previews/pallav-tron-lightcycle.webp" width="640" loading="lazy" alt="Tron lightcycle → playable"></a>
 
 **Prompt**
 
 ```text
-Render a lightcycle-style arena battle in Blender from a clear cinematic reference,
-then port a playable slice to Unreal (or Three.js) for desktop and ideally iOS.
-Prioritize feel over feature count. Do not bundle copyrighted audio without a license.
+Render a lightcycle-style arena battle in Blender, then port a playable slice to Unreal (or Three.js) for desktop and ideally iOS. Prioritize feel. Do not bundle copyrighted audio without a license.
 ```
 
 [Original post](https://x.com/pallavmac/status/2097016391903657991) · [Back to examples](#all-prompts)
 
 ---
 
-### 2,234 anatomical parts in 3D
-<a id="anatomical-atlas-3d"></a>
+### Playable 4D chess
+<a id="miki-4d-chess"></a>
 
-OpenAI Devs community article
+[@miki_code](https://x.com/miki_code) · reply thread
+
+<a href="https://x.com/miki_code/status/2096132455652549117"><img src="assets/featured/miki-4d-chess.webp" width="640" loading="lazy" alt="Playable 4D chess"></a>
 
 **Prompt**
 
 ```text
-Build an interactive 3D anatomical explorer with thousands of selectable parts,
-layered visibility, search, and a clean educational UI. Use appropriately licensed meshes.
-Do not claim clinical validation.
+Build a playable 4D chess prototype with clear piece moves across a fourth dimension and readable UI.
+```
+
+[Original post](https://x.com/miki_code/status/2096132455652549117) · [Back to examples](#all-prompts)
+
+---
+
+### Scribble Tanks
+<a id="scribble-tanks"></a>
+
+[@shortaktien](https://x.com/shortaktien) · reply thread
+
+<a href="https://x.com/shortaktien/status/2098874536028410196"><img src="assets/featured/scribble-tanks.webp" width="640" loading="lazy" alt="Scribble Tanks"></a>
+
+**Prompt**
+
+```text
+Build Scribble Tanks: a playful tank sandbox with weather, physics, animals, water, and zombies. Prioritize feel.
+```
+
+[Original post](https://x.com/shortaktien/status/2098874536028410196) · [Back to examples](#all-prompts)
+
+---
+
+### Geometric OpenAI-logo look
+<a id="openai-logo-geo"></a>
+
+[@globalainomad](https://x.com/globalainomad) · reply thread
+
+<a href="https://x.com/globalainomad/status/2098833443501310063"><img src="assets/featured/openai-logo-geo.webp" width="640" loading="lazy" alt="Geometric OpenAI-logo look"></a>
+
+**Prompt**
+
+```text
+Generate a geometric, motion-friendly take inspired by a logo silhouette. Keep it original; do not copy trademarked marks into a commercial asset.
+```
+
+[Original post](https://x.com/globalainomad/status/2098833443501310063) · [Back to examples](#all-prompts)
+
+---
+
+### Browser wavetable synth
+<a id="wavetable-synth"></a>
+
+[@android_stern](https://x.com/android_stern) · reply thread
+
+<a href="https://x.com/android_stern/status/2098834316126028265"><img src="assets/featured/wavetable-synth.webp" width="640" loading="lazy" alt="Browser wavetable synth"></a>
+
+**Prompt**
+
+```text
+Build a browser wavetable synth with modulation, an FX graph, and bounce-to-sampler. Ship a playable web demo.
+```
+
+[Original post](https://x.com/android_stern/status/2098834316126028265) · [Back to examples](#all-prompts)
+
+---
+
+### Dragon flight over flooded city
+<a id="panzer-dragon"></a>
+
+[@yasei_no_otoko](https://x.com/yasei_no_otoko) · reply thread
+
+<a href="https://x.com/yasei_no_otoko/status/2098833173623005666"><img src="assets/featured/panzer-dragon.webp" width="640" loading="lazy" alt="Dragon flight over flooded city"></a>
+
+**Prompt**
+
+```text
+Create a Panzer Dragoon–style dragon flight over a flooded city. Original creatures and city; do not copy commercial IP art.
+```
+
+[Original post](https://x.com/yasei_no_otoko/status/2098833173623005666) · [Back to examples](#all-prompts)
+
+---
+
+### Spline Rush racing
+<a id="spline-rush"></a>
+
+[@dandumt23](https://x.com/dandumt23) · reply thread
+
+<a href="https://x.com/dandumt23/status/2098839458195939612"><img src="assets/featured/spline-rush.webp" width="640" loading="lazy" alt="Spline Rush racing"></a>
+
+**Prompt**
+
+```text
+One-shot racing game Spline Rush on Azure Coast: satisfying handling, instant retry, polished track.
+```
+
+[Original post](https://x.com/dandumt23/status/2098839458195939612) · [Back to examples](#all-prompts)
+
+---
+
+### Aetherfall: The Twilight Expanse
+<a id="aetherfall"></a>
+
+[@dandumt23](https://x.com/dandumt23) · reply thread
+
+<a href="https://x.com/dandumt23/status/2098839718020382983"><img src="assets/featured/aetherfall.webp" width="640" loading="lazy" alt="Aetherfall: The Twilight Expanse"></a>
+
+**Prompt**
+
+```text
+Dark platformer across linked islands: Aetherfall — Twilight Expanse. Readable silhouettes, tight jumps.
+```
+
+[Original post](https://x.com/dandumt23/status/2098839718020382983) · [Back to examples](#all-prompts)
+
+---
+
+### SOLIFAN exploded workplace
+<a id="solifan"></a>
+
+[@solid_fdn](https://x.com/solid_fdn) · reply thread
+
+<a href="https://x.com/solid_fdn/status/2098910304163991874"><img src="assets/featured/solifan.webp" width="640" loading="lazy" alt="SOLIFAN exploded workplace"></a>
+
+**Prompt**
+
+```text
+Exploded 3D workplace over a city map with hundreds of moving parts and clear camera choreography.
+```
+
+[Original post](https://x.com/solid_fdn/status/2098910304163991874) · [Back to examples](#all-prompts)
+
+---
+
+### Browser rhythm game (Thumper-like)
+<a id="thumper-rhythm"></a>
+
+[@GZhan57](https://x.com/GZhan57) · reply thread
+
+<a href="https://x.com/GZhan57/status/2098555255596450022"><img src="assets/featured/thumper-rhythm.webp" width="640" loading="lazy" alt="Browser rhythm game (Thumper-like)"></a>
+
+**Prompt**
+
+```text
+Browser rhythm game inspired by Thumper feel using WASM + WebGPU. Original track art; do not copy commercial IP.
+```
+
+[Original post](https://x.com/GZhan57/status/2098555255596450022) · [Back to examples](#all-prompts)
+
+---
+
+### Blob game
+<a id="blob-game"></a>
+
+[@SimonasLTU1](https://x.com/SimonasLTU1) · reply thread
+
+<a href="https://x.com/SimonasLTU1/status/2098011856128332214"><img src="assets/featured/blob-game.webp" width="640" loading="lazy" alt="Blob game"></a>
+
+**Prompt**
+
+```text
+Build a polished blob physics game. Note model used (Astra or other) in the README.
+```
+
+[Original post](https://x.com/SimonasLTU1/status/2098011856128332214) · [Back to examples](#all-prompts)
+
+---
+
+### Blender × Seedance one-take
+<a id="blender-seedance"></a>
+
+[@KanaWorks_AI](https://x.com/KanaWorks_AI) · reply thread
+
+<a href="https://x.com/KanaWorks_AI/status/2098586768174203155"><img src="assets/featured/blender-seedance.webp" width="640" loading="lazy" alt="Blender × Seedance one-take"></a>
+
+**Prompt**
+
+```text
+Blender × Seedance 2.5 one-take: prefer open scenes over cluttered interiors; keep camera continuous.
+```
+
+[Original post](https://x.com/KanaWorks_AI/status/2098586768174203155) · [Back to examples](#all-prompts)
+
+---
+
+### Shinkansen crash panic film
+<a id="shinkansen-panic"></a>
+
+[@KanaWorks_AI](https://x.com/KanaWorks_AI) · reply thread
+
+<a href="https://x.com/KanaWorks_AI/status/2097604098900021513"><img src="assets/featured/shinkansen-panic.webp" width="640" loading="lazy" alt="Shinkansen crash panic film"></a>
+
+**Prompt**
+
+```text
+Blender × Seedance panic-film piece with a shinkansen crash motif. Fictional; no real-incident claims.
+```
+
+[Original post](https://x.com/KanaWorks_AI/status/2097604098900021513) · [Back to examples](#all-prompts)
+
+---
+
+### RP2040 PCB Studio prototype
+<a id="rp2040-pcb"></a>
+
+[@PinoZlatan](https://x.com/PinoZlatan) · reply thread
+
+<a href="https://x.com/PinoZlatan/status/2098945126563205268"><img src="assets/featured/rp2040-pcb.webp" width="640" loading="lazy" alt="RP2040 PCB Studio prototype"></a>
+
+**Prompt**
+
+```text
+RP2040 controller: schematic, BOM, provisional 3D in a PCB studio app. Document assumptions.
+```
+
+[Original post](https://x.com/PinoZlatan/status/2098945126563205268) · [Back to examples](#all-prompts)
+
+---
+
+### Interactive high-school math
+<a id="hs-math"></a>
+
+[@Xian0063](https://x.com/Xian0063) · reply thread
+
+<a href="https://x.com/Xian0063/status/2096046406951903398"><img src="assets/featured/hs-math.webp" width="640" loading="lazy" alt="Interactive high-school math"></a>
+
+**Prompt**
+
+```text
+Interactive high-school math course with lessons, manipulables, and software delivery.
+```
+
+[Original post](https://x.com/Xian0063/status/2096046406951903398) · [Back to examples](#all-prompts)
+
+---
+
+### Astra.directory galaxy index
+<a id="astra-directory"></a>
+
+[@AnupPandey_X](https://x.com/AnupPandey_X) · reply thread
+
+<a href="https://x.com/AnupPandey_X/status/2098828020652093444"><img src="assets/featured/astra-directory.webp" width="640" loading="lazy" alt="Astra.directory galaxy index"></a>
+
+**Prompt**
+
+```text
+Galaxy-style index of independent Astra builds with links out to each project.
+```
+
+[Original post](https://x.com/AnupPandey_X/status/2098828020652093444) · [Back to examples](#all-prompts)
+
+---
+
+### 2,234 anatomical parts in 3D
+<a id="anatomical-atlas-3d"></a>
+
+OpenAIDevs article
+
+**Prompt**
+
+```text
+Build an interactive 3D anatomical explorer with thousands of selectable parts, layered visibility, search, and a clean educational UI. Use appropriately licensed meshes. Do not claim clinical validation.
 ```
 
 [Original post](https://x.com/i/web/status/2096221988763173186) · [Back to examples](#all-prompts)
@@ -114,25 +378,27 @@ Do not claim clinical validation.
 ### Manhattan in Unreal Engine
 <a id="manhattan-unreal"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Recreate a recognizable Manhattan slice in Unreal Engine with readable landmarks,
-daylight, and a flythrough camera. Prioritize silhouette and performance.
+Recreate a recognizable Manhattan slice in Unreal Engine with readable landmarks, daylight, and a flythrough camera.
 ```
 
 [Original post](https://x.com/i/web/status/2095609734845927525) · [Back to examples](#all-prompts)
 
 ---
 
-### Van Gogh paintings → walkable Three.js town
+### Van Gogh → walkable Three.js town
 <a id="van-gogh-threejs-town"></a>
+
+OpenAIDevs article
 
 **Prompt**
 
 ```text
-Turn a set of paintings into a walkable miniature town in Three.js. Preserve motifs,
-prioritize camera readability, ship one self-contained HTML demo.
+Turn a set of paintings into a walkable miniature town in Three.js. Preserve motifs, prioritize camera readability, ship one self-contained HTML demo.
 ```
 
 [Original post](https://x.com/i/web/status/2095776685807346105) · [Back to examples](#all-prompts)
@@ -142,11 +408,12 @@ prioritize camera readability, ship one self-contained HTML demo.
 ### Sweep AR vacuum coverage
 <a id="sweep-ar"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Build an AR prototype that visualizes vacuum / coverage maps over a room floor plan
-with clear progress feedback and simple controls.
+Build an AR prototype that visualizes vacuum / coverage maps over a room with clear progress feedback.
 ```
 
 [Original post](https://x.com/i/web/status/2096711155762782411) · [Back to examples](#all-prompts)
@@ -156,11 +423,12 @@ with clear progress feedback and simple controls.
 ### Train drawing → Blender (3,295 objects)
 <a id="train-blender"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Take this line drawing of a train and build a fully editable Blender model with a deep
-object hierarchy (thousands of named objects if the reference supports it). Export stills + orbit.
+Take a train line drawing and build a fully editable Blender model with a deep object hierarchy. Export stills + orbit.
 ```
 
 [Original post](https://x.com/i/web/status/2095756085890310311) · [Back to examples](#all-prompts)
@@ -170,11 +438,12 @@ object hierarchy (thousands of named objects if the reference supports it). Expo
 ### Underwater browser game
 <a id="underwater-browser-game"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Build an underwater browser game with Astra + Blender assets. One-tap or simple controls,
-polished feel, playable in mobile browser when possible.
+Build an underwater browser game with Astra + Blender assets. Simple controls, polished feel.
 ```
 
 [Original post](https://x.com/i/web/status/2095599934766764338) · [Back to examples](#all-prompts)
@@ -184,11 +453,12 @@ polished feel, playable in mobile browser when possible.
 ### Images → custom LEGO designs
 <a id="lego-designs"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Prototype a pipeline from images and ideas to custom LEGO-style designs with clear
-assembly steps. Keep designs original; do not infringe LEGO trademarks in published branding.
+Prototype images/ideas → custom LEGO-style designs with assembly steps. Keep designs original.
 ```
 
 [Original post](https://x.com/i/web/status/2096377028945576370) · [Back to examples](#all-prompts)
@@ -198,11 +468,12 @@ assembly steps. Keep designs original; do not infringe LEGO trademarks in publis
 ### Mixed-reality air traffic (Unity)
 <a id="air-traffic-unity"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Build a mixed-reality air traffic simulator in Unity with readable aircraft, routes,
-and simple scenario controls.
+Mixed-reality air traffic simulator in Unity with readable aircraft, routes, and scenario controls.
 ```
 
 [Original post](https://x.com/i/web/status/2096374716906745941) · [Back to examples](#all-prompts)
@@ -212,11 +483,12 @@ and simple scenario controls.
 ### Screen recording → interactive UI
 <a id="screen-to-ui"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
 From a screen recording, reconstruct an interactive interface including animations.
-Deliver a runnable prototype and note what was inferred vs exact.
 ```
 
 [Original post](https://x.com/i/web/status/2095595938534351231) · [Back to examples](#all-prompts)
@@ -226,11 +498,12 @@ Deliver a runnable prototype and note what was inferred vs exact.
 ### Browser racing (Three.js)
 <a id="browser-racing"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Create a browser racing game with Three.js: satisfying handling, one track, instant retry.
-Small and finished beats big and rough.
+Browser racing game with Three.js: satisfying handling, one track, instant retry.
 ```
 
 [Original post](https://x.com/i/web/status/2096587056755638553) · [Back to examples](#all-prompts)
@@ -240,11 +513,12 @@ Small and finished beats big and rough.
 ### Backrooms in Blender (VHS)
 <a id="backrooms-blender"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Render a first-person VHS-style journey through Backrooms-like spaces in Blender:
-handheld panic, maze rooms and hallways, ~30s, with sound design notes.
+First-person VHS-style Backrooms journey in Blender (~30s) with sound design notes.
 ```
 
 [Original post](https://x.com/i/web/status/2096003511104508411) · [Back to examples](#all-prompts)
@@ -254,11 +528,12 @@ handheld panic, maze rooms and hallways, ~30s, with sound design notes.
 ### ESP32 workbench visualizer
 <a id="esp32-workbench"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Build a workbench prototype that visualizes ESP32 boards, components, and wiring
-with interactive callouts for learning and assembly.
+Workbench prototype visualizing ESP32 boards, components, and wiring with interactive callouts.
 ```
 
 [Original post](https://x.com/i/web/status/2096342954273054843) · [Back to examples](#all-prompts)
@@ -268,11 +543,12 @@ with interactive callouts for learning and assembly.
 ### Swift ray tracer on iPhone GPU
 <a id="swift-ray-tracer"></a>
 
+OpenAIDevs article
+
 **Prompt**
 
 ```text
-Port a C++ ray tracer to Swift running on the iPhone GPU. Show interactive frames
-and document performance tradeoffs.
+Port a C++ ray tracer to Swift on the iPhone GPU. Show interactive frames and performance notes.
 ```
 
 [Original post](https://x.com/i/web/status/2095879835088293931) · [Back to examples](#all-prompts)
@@ -287,21 +563,26 @@ and document performance tradeoffs.
 **Prompt**
 
 ```text
-Authorized short ad clip (≤30s). Decode hook / pacing / proof / CTA (~18 elements).
-Produce product-true stills, then a Seedance 2.5 / multi-model remake that keeps my SKU.
-No invented ROAS. No “will go viral.”
+Authorized short ad clip (≤30s). Decode hook / pacing / proof / CTA (~18 elements). Produce product-true stills, then a Seedance 2.5 / multi-model remake that keeps my SKU. No invented ROAS.
 ```
 
-[Analyzer](https://easyveo.com/tools/viral-video-elements-analyzer?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=entry_analyzer) · [GPT Image](https://easyveo.com/ai-image?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=entry_stills) · [Studio](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=entry_studio) · [Back to examples](#all-prompts)
+[Original post](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=entry_studio) · [Back to examples](#all-prompts)
 
 ---
 
+
+## Related indexes
+
+- [astra.directory](https://astra.directory) — galaxy index of builds ([@AnupPandey_X](https://x.com/AnupPandey_X/status/2098828020652093444))
+- [pmer.cn Astra projects](https://pmer.cn/en/ai-tools/astra-projects/) — scored catalog ([@ai_pmer](https://x.com/ai_pmer/status/2098932007741063179))
+- [thecrystalbears.com](https://www.thecrystalbears.com/) — games/books/site ([@JulianJenkins](https://x.com/JulianJenkins/status/2098858237667737960))
+
 ## Share a good example
 
-Open a PR with title, source link, short note, and optional preview frame. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Open a PR — see [CONTRIBUTING.md](CONTRIBUTING.md). Prefer preview frames in `assets/`; keep full videos on X.
 
 ## Credits
 
-Community demos from [@OpenAIDevs](https://x.com/OpenAIDevs) [Astra community article](https://x.com/OpenAIDevs/status/2098827327832822014) and reply thread. Layout inspired by public awesome-list formats. Product CTA: [EasyVeo](https://easyveo.com).
+Scraped from [@OpenAIDevs](https://x.com/OpenAIDevs) [GPT-6 Astra by our community](https://x.com/OpenAIDevs/status/2098827327832822014) article embeds + reply thread. Layout inspired by public awesome-list formats (not Tripo media). Product CTA: [EasyVeo](https://easyveo.com).
 
 See [RIGHTS.md](RIGHTS.md).
