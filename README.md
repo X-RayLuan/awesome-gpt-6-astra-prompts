@@ -378,6 +378,9 @@ Galaxy-style index of independent Astra builds with links out to each project.
 
 OpenAIDevs article
 
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/anatomical-atlas-3d-readme.mp4"><img src="assets/featured/anatomical-atlas-3d.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/anatomical-atlas-3d-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/anatomical-atlas-3d-readme.mp4">Download MP4</a></sub>
+
 **Prompt**
 
 ```text
@@ -392,6 +395,9 @@ Build an interactive 3D anatomical explorer with thousands of selectable parts, 
 <a id="manhattan-unreal"></a>
 
 OpenAIDevs article
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/manhattan-unreal-readme.mp4"><img src="assets/featured/manhattan-unreal.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/manhattan-unreal-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/manhattan-unreal-readme.mp4">Download MP4</a></sub>
 
 **Prompt**
 
@@ -408,6 +414,9 @@ Recreate a recognizable Manhattan slice in Unreal Engine with readable landmarks
 
 OpenAIDevs article
 
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/van-gogh-threejs-town-readme.mp4"><img src="assets/featured/van-gogh-threejs-town.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/van-gogh-threejs-town-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/van-gogh-threejs-town-readme.mp4">Download MP4</a></sub>
+
 **Prompt**
 
 ```text
@@ -422,6 +431,9 @@ Turn a set of paintings into a walkable miniature town in Three.js. Preserve mot
 <a id="sweep-ar"></a>
 
 OpenAIDevs article
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/sweep-ar-readme.mp4"><img src="assets/featured/sweep-ar.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/sweep-ar-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/sweep-ar-readme.mp4">Download MP4</a></sub>
 
 **Prompt**
 
@@ -438,6 +450,9 @@ Build an AR prototype that visualizes vacuum / coverage maps over a room with cl
 
 OpenAIDevs article
 
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/train-blender-readme.mp4"><img src="assets/featured/train-blender.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/train-blender-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/train-blender-readme.mp4">Download MP4</a></sub>
+
 **Prompt**
 
 ```text
@@ -452,6 +467,9 @@ Take a train line drawing and build a fully editable Blender model with a deep o
 <a id="underwater-browser-game"></a>
 
 OpenAIDevs article
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/underwater-browser-game-readme.mp4"><img src="assets/featured/underwater-browser-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/underwater-browser-game-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/underwater-browser-game-readme.mp4">Download MP4</a></sub>
 
 **Prompt**
 
@@ -468,6 +486,9 @@ Build an underwater browser game with Astra + Blender assets. Simple controls, p
 
 OpenAIDevs article
 
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/lego-designs-readme.mp4"><img src="assets/featured/lego-designs.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/lego-designs-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/lego-designs-readme.mp4">Download MP4</a></sub>
+
 **Prompt**
 
 ```text
@@ -482,6 +503,9 @@ Prototype images/ideas → custom LEGO-style designs with assembly steps. Keep d
 <a id="air-traffic-unity"></a>
 
 OpenAIDevs article
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/air-traffic-unity-readme.mp4"><img src="assets/featured/air-traffic-unity.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/air-traffic-unity-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/air-traffic-unity-readme.mp4">Download MP4</a></sub>
 
 **Prompt**
 
@@ -498,6 +522,9 @@ Mixed-reality air traffic simulator in Unity with readable aircraft, routes, and
 
 OpenAIDevs article
 
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/screen-to-ui-readme.mp4"><img src="assets/featured/screen-to-ui.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/screen-to-ui-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/screen-to-ui-readme.mp4">Download MP4</a></sub>
+
 **Prompt**
 
 ```text
@@ -513,6 +540,9 @@ From a screen recording, reconstruct an interactive interface including animatio
 
 OpenAIDevs article
 
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/browser-racing-readme.mp4"><img src="assets/featured/browser-racing.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/browser-racing-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/browser-racing-readme.mp4">Download MP4</a></sub>
+
 **Prompt**
 
 ```text
@@ -527,6 +557,9 @@ Browser racing game with Three.js: satisfying handling, one track, instant retry
 <a id="backrooms-blender"></a>
 
 OpenAIDevs article
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/backrooms-blender-readme.mp4"><img src="assets/featured/backrooms-blender.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/backrooms-blender-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/backrooms-blender-readme.mp4">Download MP4</a></sub>
 
 **Prompt**
 
@@ -557,6 +590,9 @@ Workbench prototype visualizing ESP32 boards, components, and wiring with intera
 <a id="swift-ray-tracer"></a>
 
 OpenAIDevs article
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/swift-ray-tracer-readme.mp4"><img src="assets/featured/swift-ray-tracer.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/swift-ray-tracer-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/swift-ray-tracer-readme.mp4">Download MP4</a></sub>
 
 **Prompt**
 
