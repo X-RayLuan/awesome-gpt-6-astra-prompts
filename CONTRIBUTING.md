@@ -1,14 +1,10 @@
 # Contributing
 
-## What belongs here
-- GPT-6 Astra prompts for interactive / 3D / video demos
-- Prompts for **remaking ads that already work** (EasyVeo loop welcome)
-- Public demos with a clear source link
+Add demos under **Latest Astra prompts** in `README.md`:
 
-## What does not
-- Unattributed copies of other awesome-list corpora
-- Rehosted media without rights
-- Pure cinema pitch with no remake angle (for the EasyVeo section)
+1. Title + author + original post URL  
+2. Optional preview under `assets/previews/` (frame/thumb only — prefer linking full video on X)  
+3. A short prompt in a `text` fence  
+4. EasyVeo CTA only when the workflow is an ad remake  
 
-## How to add
-Open a PR adding one entry under **Latest GPT-6 Astra prompts** in `README.md` with title, short note, fenced prompt, and source link.
+Do not rehost TripoGrowthLab media. Do not upload copyrighted audio.

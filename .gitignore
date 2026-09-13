@@ -1,0 +1,4 @@
+assets/videos/*.mp4
+.DS_Store
+node_modules/
+.env.local
