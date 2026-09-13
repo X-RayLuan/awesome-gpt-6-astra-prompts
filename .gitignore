@@ -1,4 +1,7 @@
-assets/videos/*.mp4
+# Full scrapes stay local (size); README embeds use *-readme.mp4
+assets/videos/*
+!assets/videos/*-readme.mp4
+!assets/videos/.gitkeep
 .DS_Store
 node_modules/
 .env.local

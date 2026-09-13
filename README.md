@@ -17,14 +17,16 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 
 ## Featured projects
 
+<sub>Videos play inline on GitHub (press ▶). Full originals live on X.</sub>
+
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://x.com/NURM_Dima/status/2096534403610562910"><img src="assets/featured/nurm-coral.webp" width="420" loading="lazy" alt="Alex and the Inkstorm"></a><br><strong><a href="#alex-and-the-inkstorm">Alex and the Inkstorm</a></strong><br><sub><a href="https://x.com/NURM_Dima/status/2096534403610562910">@NURM_Dima</a></sub><br><a href="#alex-and-the-inkstorm">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://x.com/pallavmac/status/2097016391903657991"><img src="assets/featured/pallav-tron.webp" width="420" loading="lazy" alt="Tron lightcycle"></a><br><strong><a href="#tron-lightcycle-to-playable">Tron lightcycle → playable</a></strong><br><sub><a href="https://x.com/pallavmac/status/2097016391903657991">@pallavmac</a></sub><br><a href="#tron-lightcycle-to-playable">Prompt →</a></td>
+<td width="50%" valign="top"><video src="assets/videos/nurm-alex-inkstorm-readme.mp4" poster="assets/featured/nurm-coral.webp" controls playsinline preload="metadata" width="420"></video><br><strong><a href="#alex-and-the-inkstorm">Alex and the Inkstorm</a></strong><br><sub><a href="https://x.com/NURM_Dima/status/2096534403610562910">@NURM_Dima</a></sub><br><a href="#alex-and-the-inkstorm">Prompt →</a></td>
+<td width="50%" valign="top"><video src="assets/videos/pallav-tron-lightcycle-readme.mp4" poster="assets/featured/pallav-tron.webp" controls playsinline preload="metadata" width="420"></video><br><strong><a href="#tron-lightcycle-to-playable">Tron lightcycle → playable</a></strong><br><sub><a href="https://x.com/pallavmac/status/2097016391903657991">@pallavmac</a></sub><br><a href="#tron-lightcycle-to-playable">Prompt →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://x.com/miki_code/status/2096132455652549117"><img src="assets/featured/miki-4d-chess.webp" width="420" loading="lazy" alt="4D chess"></a><br><strong><a href="#miki-4d-chess">Playable 4D chess</a></strong><br><sub><a href="https://x.com/miki_code/status/2096132455652549117">@miki_code</a></sub><br><a href="#miki-4d-chess">Prompt →</a></td>
-<td width="50%" valign="top"><a href="https://x.com/shortaktien/status/2098874536028410196"><img src="assets/featured/scribble-tanks.webp" width="420" loading="lazy" alt="Scribble Tanks"></a><br><strong><a href="#scribble-tanks">Scribble Tanks</a></strong><br><sub><a href="https://x.com/shortaktien/status/2098874536028410196">@shortaktien</a></sub><br><a href="#scribble-tanks">Prompt →</a></td>
+<td width="50%" valign="top"><video src="assets/videos/miki-4d-chess-readme.mp4" poster="assets/featured/miki-4d-chess.webp" controls playsinline preload="metadata" width="420"></video><br><strong><a href="#miki-4d-chess">Playable 4D chess</a></strong><br><sub><a href="https://x.com/miki_code/status/2096132455652549117">@miki_code</a></sub><br><a href="#miki-4d-chess">Prompt →</a></td>
+<td width="50%" valign="top"><video src="assets/videos/scribble-tanks-readme.mp4" poster="assets/featured/scribble-tanks.webp" controls playsinline preload="metadata" width="420"></video><br><strong><a href="#scribble-tanks">Scribble Tanks</a></strong><br><sub><a href="https://x.com/shortaktien/status/2098874536028410196">@shortaktien</a></sub><br><a href="#scribble-tanks">Prompt →</a></td>
 </tr>
 </table>
 
@@ -76,7 +78,8 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 
 [NURM_Dima](https://x.com/NURM_Dima) · reply thread
 
-<a href="https://x.com/NURM_Dima/status/2096534403610562910"><img src="assets/previews/nurm-alex-inkstorm.webp" width="640" loading="lazy" alt="Alex and the Inkstorm"></a>
+<video src="assets/videos/nurm-alex-inkstorm-readme.mp4" poster="assets/previews/nurm-alex-inkstorm.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/nurm-alex-inkstorm-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/nurm-alex-inkstorm-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -93,7 +96,8 @@ I uploaded a photo. Make this person the hero of an original platformer with mul
 
 [pallavmac](https://x.com/pallavmac) · reply thread
 
-<a href="https://x.com/pallavmac/status/2097016391903657991"><img src="assets/previews/pallav-tron-lightcycle.webp" width="640" loading="lazy" alt="Tron lightcycle → playable"></a>
+<video src="assets/videos/pallav-tron-lightcycle-readme.mp4" poster="assets/previews/pallav-tron-lightcycle.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/pallav-tron-lightcycle-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/pallav-tron-lightcycle-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -110,7 +114,8 @@ Render a lightcycle-style arena battle in Blender, then port a playable slice to
 
 [@miki_code](https://x.com/miki_code) · reply thread
 
-<a href="https://x.com/miki_code/status/2096132455652549117"><img src="assets/featured/miki-4d-chess.webp" width="640" loading="lazy" alt="Playable 4D chess"></a>
+<video src="assets/videos/miki-4d-chess-readme.mp4" poster="assets/featured/miki-4d-chess.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/miki-4d-chess-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/miki-4d-chess-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -127,7 +132,8 @@ Build a playable 4D chess prototype with clear piece moves across a fourth dimen
 
 [@shortaktien](https://x.com/shortaktien) · reply thread
 
-<a href="https://x.com/shortaktien/status/2098874536028410196"><img src="assets/featured/scribble-tanks.webp" width="640" loading="lazy" alt="Scribble Tanks"></a>
+<video src="assets/videos/scribble-tanks-readme.mp4" poster="assets/featured/scribble-tanks.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/scribble-tanks-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/scribble-tanks-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -178,7 +184,8 @@ Build a browser wavetable synth with modulation, an FX graph, and bounce-to-samp
 
 [@yasei_no_otoko](https://x.com/yasei_no_otoko) · reply thread
 
-<a href="https://x.com/yasei_no_otoko/status/2098833173623005666"><img src="assets/featured/panzer-dragon.webp" width="640" loading="lazy" alt="Dragon flight over flooded city"></a>
+<video src="assets/videos/panzer-dragon-readme.mp4" poster="assets/featured/panzer-dragon.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/panzer-dragon-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/panzer-dragon-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -195,7 +202,8 @@ Create a Panzer Dragoon–style dragon flight over a flooded city. Original crea
 
 [@dandumt23](https://x.com/dandumt23) · reply thread
 
-<a href="https://x.com/dandumt23/status/2098839458195939612"><img src="assets/featured/spline-rush.webp" width="640" loading="lazy" alt="Spline Rush racing"></a>
+<video src="assets/videos/spline-rush-readme.mp4" poster="assets/featured/spline-rush.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/spline-rush-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/spline-rush-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -212,7 +220,8 @@ One-shot racing game Spline Rush on Azure Coast: satisfying handling, instant re
 
 [@dandumt23](https://x.com/dandumt23) · reply thread
 
-<a href="https://x.com/dandumt23/status/2098839718020382983"><img src="assets/featured/aetherfall.webp" width="640" loading="lazy" alt="Aetherfall: The Twilight Expanse"></a>
+<video src="assets/videos/aetherfall-readme.mp4" poster="assets/featured/aetherfall.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/aetherfall-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/aetherfall-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -229,7 +238,8 @@ Dark platformer across linked islands: Aetherfall — Twilight Expanse. Readable
 
 [@solid_fdn](https://x.com/solid_fdn) · reply thread
 
-<a href="https://x.com/solid_fdn/status/2098910304163991874"><img src="assets/featured/solifan.webp" width="640" loading="lazy" alt="SOLIFAN exploded workplace"></a>
+<video src="assets/videos/solifan-readme.mp4" poster="assets/featured/solifan.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/solifan-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/solifan-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -246,7 +256,8 @@ Exploded 3D workplace over a city map with hundreds of moving parts and clear ca
 
 [@GZhan57](https://x.com/GZhan57) · reply thread
 
-<a href="https://x.com/GZhan57/status/2098555255596450022"><img src="assets/featured/thumper-rhythm.webp" width="640" loading="lazy" alt="Browser rhythm game (Thumper-like)"></a>
+<video src="assets/videos/thumper-rhythm-readme.mp4" poster="assets/featured/thumper-rhythm.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/thumper-rhythm-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/thumper-rhythm-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
@@ -280,7 +291,8 @@ Build a polished blob physics game. Note model used (Astra or other) in the READ
 
 [@KanaWorks_AI](https://x.com/KanaWorks_AI) · reply thread
 
-<a href="https://x.com/KanaWorks_AI/status/2098586768174203155"><img src="assets/featured/blender-seedance.webp" width="640" loading="lazy" alt="Blender × Seedance one-take"></a>
+<video src="assets/videos/blender-seedance-readme.mp4" poster="assets/featured/blender-seedance.webp" controls playsinline preload="metadata" width="640"><a href="assets/videos/blender-seedance-readme.mp4">Play video</a></video>
+<br><sub><a href="assets/videos/blender-seedance-readme.mp4">Open MP4</a> · press ▶ to play on GitHub</sub>
 
 **Prompt**
 
