@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**32 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**42 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -69,6 +69,17 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Swift ray tracer on iPhone GPU](#swift-ray-tracer)
 - [GPT-6 + Blender → Seedance 2.5 workflow](#tanluai-gpt6-blender-seedance) · @TanLuAI
 - [EasyVeo decode → stills → remake](#easyveo-remake-loop)
+**OpenAI Showcase**
+- [Little Ritual](#openai-showcase-little-ritual) · GPT-6 Astra · video
+- [Velocity Loop](#openai-showcase-velocity-loop) · GPT-6 Astra · video
+- [Abyssal](#openai-showcase-abyssal-bioluminescent-ecosystem) · GPT-6 Astra
+- [Clockwork Observatory](#openai-showcase-impossible-kinetic-architecture) · GPT-6 Astra
+- [Living Cell](#openai-showcase-living-cell-cross-section) · GPT-6 Astra
+- [Below the Surface](#openai-showcase-below-the-surface) · GPT-6 Astra
+- [Courtyard House](#openai-showcase-courtyard-house) · GPT-6 Astra
+- [Physics museum](#openai-showcase-physics-museum) · GPT-6 Astra
+- [Architecture Studio](#openai-showcase-architecture-studio) · GPT-6 Astra
+- [Stop-Motion Desk](#openai-showcase-stop-motion-desk) · GPT-6 Astra · video
 
 </details>
 
@@ -644,8 +655,227 @@ Authorized short ad clip (≤30s). Decode hook / pacing / proof / CTA (~18 eleme
 ---
 
 
+### Little Ritual
+<a id="openai-showcase-little-ritual"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/little-ritual) · Jeff Wang · official demo · GPT-6 Astra
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-little-ritual-readme.mp4"><img src="assets/featured/openai-showcase-little-ritual.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-little-ritual-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-little-ritual-readme.mp4">Download MP4</a> · <a href="https://developers.openai.com/showcase/little-ritual">Showcase</a></sub>
+
+_A 3D coffee-delivery game on a small spherical world._
+
+**Prompt**
+
+```text
+Build an original single-player 3D browser game about delivering coffee, set on a small, walkable spherical planet with a curved horizon. Give it a warm, stylized, cutesy look, mixing a compact town with quieter natural areas connected by paths around the globe. Include vertical exploration through stairs, upper floors, and bridges. Start the player in a café beside a coffee machine. Let them carry four visibly modeled coffees and explore to find neighbors, delivering to each once per round. Use a custom 3D interpretation of the Codex pet as the courier and other pets as neighbors. Keep discovery central, with interesting places to explore and small, playful interactions. Build the game modularly so we can change the world, characters, and mechanics easily.
+```
+
+[Showcase page](https://developers.openai.com/showcase/little-ritual) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_little-ritual) · [Back to examples](#all-prompts)
+
+---
+
+### Velocity Loop
+<a id="openai-showcase-velocity-loop"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/velocity-loop) · VB Srivastav · official demo · GPT-6 Astra
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-velocity-loop-readme.mp4"><img src="assets/featured/openai-showcase-velocity-loop.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-velocity-loop-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-velocity-loop-readme.mp4">Download MP4</a> · <a href="https://developers.openai.com/showcase/velocity-loop">Showcase</a></sub>
+
+_A 3D toy-car time-trial game set in miniature workshops._
+
+**Prompt**
+
+```text
+Generate a menu concept for a realistic, die-cast-style 3D racing game with loop-the-loop tracks and nitrous. Show five course choices, varying difficulty, three assist levels, and best-time records in a clear, readable layout.
+```
+
+[Showcase page](https://developers.openai.com/showcase/velocity-loop) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_velocity-loop) · [Back to examples](#all-prompts)
+
+---
+
+### Abyssal
+<a id="openai-showcase-abyssal-bioluminescent-ecosystem"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) · VB Srivastav · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem"><img src="assets/featured/openai-showcase-abyssal-bioluminescent-ecosystem.webp" width="640" loading="lazy" alt="Abyssal"></a><br>
+<sub><a href="https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem">Open showcase</a></sub>
+
+_A procedural underwater scene with bioluminescent marine life._
+
+**Prompt**
+
+```text
+Build this interactive 3D experience as a single self-contained index.html that works offline. Keep the HTML, CSS, JavaScript, procedural geometry, textures, and shaders inline, with no external dependencies or downloaded assets. Use browser-native WebGL with a graceful fallback if unavailable. Support desktop and mobile, keyboard-accessible controls, pause/resume, and reduced motion. Keep animation smooth and rendering performance bounded.
+
+Render an original deep-ocean ecosystem surrounding a hydrothermal vent and towering procedurally grown coral or mineral formations. Establish strong depth with underwater fog, volumetric-looking light shafts, animated caustic approximations, marine-snow particles, and a dark abyss beyond the habitat.
+```
+
+[Showcase page](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_abyssal-bioluminescent-ecosystem) · [Back to examples](#all-prompts)
+
+---
+
+### Clockwork Observatory
+<a id="openai-showcase-impossible-kinetic-architecture"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/impossible-kinetic-architecture) · VB Srivastav · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/impossible-kinetic-architecture"><img src="assets/featured/openai-showcase-impossible-kinetic-architecture.webp" width="640" loading="lazy" alt="Clockwork Observatory"></a><br>
+<sub><a href="https://developers.openai.com/showcase/impossible-kinetic-architecture">Open showcase</a></sub>
+
+_An interactive 3D scene of a transforming mechanical observatory._
+
+**Prompt**
+
+```text
+Build this interactive 3D experience as a single self-contained index.html that works offline. Keep the HTML, CSS, JavaScript, procedural geometry, textures, and shaders inline, with no external dependencies or downloaded assets. Use browser-native WebGL with a graceful fallback if unavailable. Support desktop and mobile, keyboard-accessible controls, pause/resume, and reduced motion. Keep animation smooth and rendering performance bounded.
+
+Construct an original cinematic impossible observatory inspired by historical fantastical prison etchings and precise astronomical instruments, without copying any source image.
+```
+
+[Showcase page](https://developers.openai.com/showcase/impossible-kinetic-architecture) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_impossible-kinetic-architecture) · [Back to examples](#all-prompts)
+
+---
+
+### Living Cell
+<a id="openai-showcase-living-cell-cross-section"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/living-cell-cross-section) · VB Srivastav · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/living-cell-cross-section"><img src="assets/featured/openai-showcase-living-cell-cross-section.webp" width="640" loading="lazy" alt="Living Cell"></a><br>
+<sub><a href="https://developers.openai.com/showcase/living-cell-cross-section">Open showcase</a></sub>
+
+_An interactive 3D cell cross-section with inspectable structures._
+
+**Prompt**
+
+```text
+Build this interactive 3D experience as a single self-contained index.html that works offline. Keep the HTML, CSS, JavaScript, procedural geometry, textures, and shaders inline, with no external dependencies or downloaded assets. Use browser-native WebGL with a graceful fallback if unavailable. Support desktop and mobile, keyboard-accessible controls, pause/resume, and reduced motion. Keep animation smooth and rendering performance bounded.
+
+Build a luminous interactive cross-section of a living eukaryotic cell at molecular scale. Show an unmistakable phospholipid bilayer as two dense instanced layers with hydrophilic heads and paired hydrophobic tails. Animate membrane channels opening, receptor binding, and a selective concentration gradient of moving ions.
+```
+
+[Showcase page](https://developers.openai.com/showcase/living-cell-cross-section) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_living-cell-cross-section) · [Back to examples](#all-prompts)
+
+---
+
+### Below the Surface
+<a id="openai-showcase-below-the-surface"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/below-the-surface) · Katia Gil Guzman · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/below-the-surface"><img src="assets/featured/openai-showcase-below-the-surface.webp" width="640" loading="lazy" alt="Below the Surface"></a><br>
+<sub><a href="https://developers.openai.com/showcase/below-the-surface">Open showcase</a></sub>
+
+_An interactive site for exploring five ocean zones._
+
+**Prompt**
+
+```text
+Build a complete, polished, interactive landing page. Use clear, natural copy and a restrained layout with purposeful controls. Keep native scrolling, support phone and desktop layouts, keyboard controls, and reduced motion. The main interaction should work without a runtime AI call or account.
+
+Scenario: Below the Surface is a digital ocean exhibition. A visitor scrolls from the sunlit surface into the deep sea, discovering how light, pressure and animals change with depth.
+```
+
+[Showcase page](https://developers.openai.com/showcase/below-the-surface) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_below-the-surface) · [Back to examples](#all-prompts)
+
+---
+
+### Courtyard House
+<a id="openai-showcase-courtyard-house"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/courtyard-house) · Katia Gil Guzman · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/courtyard-house"><img src="assets/featured/openai-showcase-courtyard-house.webp" width="640" loading="lazy" alt="Courtyard House"></a><br>
+<sub><a href="https://developers.openai.com/showcase/courtyard-house">Open showcase</a></sub>
+
+_An interactive 3D tour of a compact courtyard home._
+
+**Prompt**
+
+```text
+Build a complete, polished, interactive landing page. Use clear, natural copy and a restrained layout with purposeful controls. Keep native scrolling, support phone and desktop layouts, keyboard controls, and reduced motion. The main interaction should work without a runtime AI call or account.
+
+Scenario: an architectural practice presents Courtyard House, an imagined compact home organized around a planted courtyard. The visitor wants to understand the plan, how spaces connect and how daylight moves through the building. This is a focused architecture-project landing page, not an interior moodboard generator.
+
+Art direction: gallery white, charcoal drawing lines, natural oak and one restrained terracotta accent.
+```
+
+[Showcase page](https://developers.openai.com/showcase/courtyard-house) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_courtyard-house) · [Back to examples](#all-prompts)
+
+---
+
+### Physics museum
+<a id="openai-showcase-physics-museum"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/physics-museum) · Katia Gil Guzman · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/physics-museum"><img src="assets/featured/openai-showcase-physics-museum.webp" width="640" loading="lazy" alt="Physics museum"></a><br>
+<sub><a href="https://developers.openai.com/showcase/physics-museum">Open showcase</a></sub>
+
+_A 3D science museum with five interactive exhibits._
+
+**Prompt**
+
+```text
+Build a polished interactive science museum with five exhibits.
+
+The concept
+Create a beautiful museum that visitors move through in 3D. The museum and its sculptural exhibits must be authored in Blender, with editable .blend sources and a reproducible asset-generation script, then exported for the interactive web experience. Do not put a live model in the visitor experience: all five exhibits are authored in advance, and visitors play with their fixed interactions. No prompt field, chat interface, or runtime content generation.
+
+This should feel like entering a small, extraordinary science museum: architectural daylight, pale mineral walls, a dark reflective floor used sparingly, brass details, translucent glass, carefully composed shadows, and restrained accents of color.
+```
+
+[Showcase page](https://developers.openai.com/showcase/physics-museum) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_physics-museum) · [Back to examples](#all-prompts)
+
+---
+
+### Architecture Studio
+<a id="openai-showcase-architecture-studio"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/architecture-studio) · Katia Gil Guzman · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/architecture-studio"><img src="assets/featured/openai-showcase-architecture-studio.webp" width="640" loading="lazy" alt="Architecture Studio"></a><br>
+<sub><a href="https://developers.openai.com/showcase/architecture-studio">Open showcase</a></sub>
+
+_A room planner with a 2D floor plan and synchronized 3D view._
+
+**Prompt**
+
+```text
+Build a room planner with one shared document powering a dimensioned 2D floor plan and a synchronized 3D view. Let people resize a rectangular room, place furniture from an original collection, move and rotate pieces, change finishes, and undo edits. Keep furniture editing in the plan and make the 3D view easy to orbit and inspect.
+```
+
+[Showcase page](https://developers.openai.com/showcase/architecture-studio) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_architecture-studio) · [Back to examples](#all-prompts)
+
+---
+
+### Stop-Motion Desk
+<a id="openai-showcase-stop-motion-desk"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/stop-motion-desk) · Katia Gil Guzman · official demo · GPT-6 Astra
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-stop-motion-desk-readme.mp4"><img src="assets/featured/openai-showcase-stop-motion-desk.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-stop-motion-desk-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-stop-motion-desk-readme.mp4">Download MP4</a> · <a href="https://developers.openai.com/showcase/stop-motion-desk">Showcase</a></sub>
+
+_A browser studio for posing 3D characters and making stop-motion animations._
+
+**Prompt**
+
+```text
+Build a browser-based stop-motion studio with original 3D characters and props. Let people arrange a scene, adjust a character’s pose, capture frames, preview the animation at different speeds, and export a GIF. Include frame reordering, duplication, deletion, and a clear preview of the previous pose. Keep the creative work on a single stage with a simple timeline below it.
+```
+
+[Showcase page](https://developers.openai.com/showcase/stop-motion-desk) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_stop-motion-desk) · [Back to examples](#all-prompts)
+
+---
+
+
 ## Related indexes
 
+- [OpenAI Developers Showcase](https://developers.openai.com/showcase) — official GPT / Codex / Astra demos
 - [astra.directory](https://astra.directory) — galaxy index of independent Astra builds ([@AnupPandey_X](https://x.com/AnupPandey_X/status/2098828020652093444)). Soft listing contact: `hello@astra.directory`
 - [pmer.cn Astra projects](https://pmer.cn/en/ai-tools/astra-projects/) — scored catalog ([@ai_pmer](https://x.com/ai_pmer/status/2098932007741063179))
 - [thecrystalbears.com](https://www.thecrystalbears.com/) — games/books/site ([@JulianJenkins](https://x.com/JulianJenkins/status/2098858237667737960))
@@ -657,6 +887,6 @@ Open a PR — see [CONTRIBUTING.md](CONTRIBUTING.md). Prefer preview frames in `
 
 ## Credits
 
-Scraped from [@OpenAIDevs](https://x.com/OpenAIDevs) [GPT-6 Astra by our community](https://x.com/OpenAIDevs/status/2098827327832822014) article embeds + reply thread. Layout inspired by public awesome-list formats (not Tripo media). Product CTA: [EasyVeo](https://easyveo.com).
+Official demos also curated from [OpenAI Developers Showcase](https://developers.openai.com/showcase). Scraped from [@OpenAIDevs](https://x.com/OpenAIDevs) [GPT-6 Astra by our community](https://x.com/OpenAIDevs/status/2098827327832822014) article embeds + reply thread. Layout inspired by public awesome-list formats (not Tripo media). Product CTA: [EasyVeo](https://easyveo.com).
 
 See [RIGHTS.md](RIGHTS.md).

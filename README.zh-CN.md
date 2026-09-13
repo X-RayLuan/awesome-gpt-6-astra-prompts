@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**32 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**42 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -69,6 +69,17 @@
 - [iPhone GPU 上的 Swift 光线追踪](#swift-ray-tracer)
 - [GPT-6 + Blender → Seedance 2.5 工作流](#tanluai-gpt6-blender-seedance) · @TanLuAI
 - [EasyVeo：拆解 → 分镜静帧 → 复刻](#easyveo-remake-loop)
+**OpenAI Showcase**
+- [小小仪式](#openai-showcase-little-ritual) · GPT-6 Astra · video
+- [速度回路](#openai-showcase-velocity-loop) · GPT-6 Astra · video
+- [深渊 Abyssal](#openai-showcase-abyssal-bioluminescent-ecosystem) · GPT-6 Astra
+- [发条天文台](#openai-showcase-impossible-kinetic-architecture) · GPT-6 Astra
+- [活细胞剖面](#openai-showcase-living-cell-cross-section) · GPT-6 Astra
+- [海面之下](#openai-showcase-below-the-surface) · GPT-6 Astra
+- [庭院住宅](#openai-showcase-courtyard-house) · GPT-6 Astra
+- [物理博物馆](#openai-showcase-physics-museum) · GPT-6 Astra
+- [建筑工作室](#openai-showcase-architecture-studio) · GPT-6 Astra
+- [定格动画工作台](#openai-showcase-stop-motion-desk) · GPT-6 Astra · video
 
 </details>
 
@@ -772,8 +783,267 @@ Authorized short ad clip (≤30s). Decode hook / pacing / proof / CTA (~18 eleme
 ---
 
 
+### 小小仪式
+<a id="openai-showcase-little-ritual"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/little-ritual) · Jeff Wang · 官方演示 · GPT-6 Astra
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-little-ritual-readme.mp4"><img src="assets/featured/openai-showcase-little-ritual.webp" width="640" loading="lazy" alt="播放视频"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-little-ritual-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-little-ritual-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/little-ritual">Showcase</a></sub>
+
+_球形小世界上的 3D 咖啡配送游戏。_
+
+**提示词（英文原文）**
+
+```text
+Build an original single-player 3D browser game about delivering coffee, set on a small, walkable spherical planet with a curved horizon. Give it a warm, stylized, cutesy look, mixing a compact town with quieter natural areas connected by paths around the globe. Include vertical exploration through stairs, upper floors, and bridges. Start the player in a café beside a coffee machine. Let them carry four visibly modeled coffees and explore to find neighbors, delivering to each once per round. Use a custom 3D interpretation of the Codex pet as the courier and other pets as neighbors. Keep discovery central, with interesting places to explore and small, playful interactions. Build the game modularly so we can change the world, characters, and mechanics easily.
+```
+
+**中文简述**
+
+球形小世界上的 3D 咖啡配送游戏。
+
+[Showcase 页面](https://developers.openai.com/showcase/little-ritual) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_little-ritual) · [返回列表](#all-prompts)
+
+---
+
+### 速度回路
+<a id="openai-showcase-velocity-loop"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/velocity-loop) · VB Srivastav · 官方演示 · GPT-6 Astra
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-velocity-loop-readme.mp4"><img src="assets/featured/openai-showcase-velocity-loop.webp" width="640" loading="lazy" alt="播放视频"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-velocity-loop-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-velocity-loop-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/velocity-loop">Showcase</a></sub>
+
+_微型工坊里的 3D 玩具车计时赛。_
+
+**提示词（英文原文）**
+
+```text
+Generate a menu concept for a realistic, die-cast-style 3D racing game with loop-the-loop tracks and nitrous. Show five course choices, varying difficulty, three assist levels, and best-time records in a clear, readable layout.
+```
+
+**中文简述**
+
+微型工坊里的 3D 玩具车计时赛。
+
+[Showcase 页面](https://developers.openai.com/showcase/velocity-loop) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_velocity-loop) · [返回列表](#all-prompts)
+
+---
+
+### 深渊 Abyssal
+<a id="openai-showcase-abyssal-bioluminescent-ecosystem"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) · VB Srivastav · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem"><img src="assets/featured/openai-showcase-abyssal-bioluminescent-ecosystem.webp" width="640" loading="lazy" alt="深渊 Abyssal"></a><br>
+<sub><a href="https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem">打开 Showcase</a></sub>
+
+_程序化水下场景，含生物发光海洋生物。_
+
+**提示词（英文原文）**
+
+```text
+Build this interactive 3D experience as a single self-contained index.html that works offline. Keep the HTML, CSS, JavaScript, procedural geometry, textures, and shaders inline, with no external dependencies or downloaded assets. Use browser-native WebGL with a graceful fallback if unavailable. Support desktop and mobile, keyboard-accessible controls, pause/resume, and reduced motion. Keep animation smooth and rendering performance bounded.
+
+Render an original deep-ocean ecosystem surrounding a hydrothermal vent and towering procedurally grown coral or mineral formations. Establish strong depth with underwater fog, volumetric-looking light shafts, animated caustic approximations, marine-snow particles, and a dark abyss beyond the habitat.
+```
+
+**中文简述**
+
+程序化水下场景，含生物发光海洋生物。
+
+[Showcase 页面](https://developers.openai.com/showcase/abyssal-bioluminescent-ecosystem) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_abyssal-bioluminescent-ecosystem) · [返回列表](#all-prompts)
+
+---
+
+### 发条天文台
+<a id="openai-showcase-impossible-kinetic-architecture"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/impossible-kinetic-architecture) · VB Srivastav · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/impossible-kinetic-architecture"><img src="assets/featured/openai-showcase-impossible-kinetic-architecture.webp" width="640" loading="lazy" alt="发条天文台"></a><br>
+<sub><a href="https://developers.openai.com/showcase/impossible-kinetic-architecture">打开 Showcase</a></sub>
+
+_可变换机械天文台的互动 3D 场景。_
+
+**提示词（英文原文）**
+
+```text
+Build this interactive 3D experience as a single self-contained index.html that works offline. Keep the HTML, CSS, JavaScript, procedural geometry, textures, and shaders inline, with no external dependencies or downloaded assets. Use browser-native WebGL with a graceful fallback if unavailable. Support desktop and mobile, keyboard-accessible controls, pause/resume, and reduced motion. Keep animation smooth and rendering performance bounded.
+
+Construct an original cinematic impossible observatory inspired by historical fantastical prison etchings and precise astronomical instruments, without copying any source image.
+```
+
+**中文简述**
+
+可变换机械天文台的互动 3D 场景。
+
+[Showcase 页面](https://developers.openai.com/showcase/impossible-kinetic-architecture) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_impossible-kinetic-architecture) · [返回列表](#all-prompts)
+
+---
+
+### 活细胞剖面
+<a id="openai-showcase-living-cell-cross-section"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/living-cell-cross-section) · VB Srivastav · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/living-cell-cross-section"><img src="assets/featured/openai-showcase-living-cell-cross-section.webp" width="640" loading="lazy" alt="活细胞剖面"></a><br>
+<sub><a href="https://developers.openai.com/showcase/living-cell-cross-section">打开 Showcase</a></sub>
+
+_可检视结构的互动 3D 细胞剖面。_
+
+**提示词（英文原文）**
+
+```text
+Build this interactive 3D experience as a single self-contained index.html that works offline. Keep the HTML, CSS, JavaScript, procedural geometry, textures, and shaders inline, with no external dependencies or downloaded assets. Use browser-native WebGL with a graceful fallback if unavailable. Support desktop and mobile, keyboard-accessible controls, pause/resume, and reduced motion. Keep animation smooth and rendering performance bounded.
+
+Build a luminous interactive cross-section of a living eukaryotic cell at molecular scale. Show an unmistakable phospholipid bilayer as two dense instanced layers with hydrophilic heads and paired hydrophobic tails. Animate membrane channels opening, receptor binding, and a selective concentration gradient of moving ions.
+```
+
+**中文简述**
+
+可检视结构的互动 3D 细胞剖面。
+
+[Showcase 页面](https://developers.openai.com/showcase/living-cell-cross-section) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_living-cell-cross-section) · [返回列表](#all-prompts)
+
+---
+
+### 海面之下
+<a id="openai-showcase-below-the-surface"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/below-the-surface) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/below-the-surface"><img src="assets/featured/openai-showcase-below-the-surface.webp" width="640" loading="lazy" alt="海面之下"></a><br>
+<sub><a href="https://developers.openai.com/showcase/below-the-surface">打开 Showcase</a></sub>
+
+_探索五大洋区的互动站点。_
+
+**提示词（英文原文）**
+
+```text
+Build a complete, polished, interactive landing page. Use clear, natural copy and a restrained layout with purposeful controls. Keep native scrolling, support phone and desktop layouts, keyboard controls, and reduced motion. The main interaction should work without a runtime AI call or account.
+
+Scenario: Below the Surface is a digital ocean exhibition. A visitor scrolls from the sunlit surface into the deep sea, discovering how light, pressure and animals change with depth.
+```
+
+**中文简述**
+
+探索五大洋区的互动站点。
+
+[Showcase 页面](https://developers.openai.com/showcase/below-the-surface) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_below-the-surface) · [返回列表](#all-prompts)
+
+---
+
+### 庭院住宅
+<a id="openai-showcase-courtyard-house"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/courtyard-house) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/courtyard-house"><img src="assets/featured/openai-showcase-courtyard-house.webp" width="640" loading="lazy" alt="庭院住宅"></a><br>
+<sub><a href="https://developers.openai.com/showcase/courtyard-house">打开 Showcase</a></sub>
+
+_紧凑庭院住宅的互动 3D 导览。_
+
+**提示词（英文原文）**
+
+```text
+Build a complete, polished, interactive landing page. Use clear, natural copy and a restrained layout with purposeful controls. Keep native scrolling, support phone and desktop layouts, keyboard controls, and reduced motion. The main interaction should work without a runtime AI call or account.
+
+Scenario: an architectural practice presents Courtyard House, an imagined compact home organized around a planted courtyard. The visitor wants to understand the plan, how spaces connect and how daylight moves through the building. This is a focused architecture-project landing page, not an interior moodboard generator.
+
+Art direction: gallery white, charcoal drawing lines, natural oak and one restrained terracotta accent.
+```
+
+**中文简述**
+
+紧凑庭院住宅的互动 3D 导览。
+
+[Showcase 页面](https://developers.openai.com/showcase/courtyard-house) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_courtyard-house) · [返回列表](#all-prompts)
+
+---
+
+### 物理博物馆
+<a id="openai-showcase-physics-museum"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/physics-museum) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/physics-museum"><img src="assets/featured/openai-showcase-physics-museum.webp" width="640" loading="lazy" alt="物理博物馆"></a><br>
+<sub><a href="https://developers.openai.com/showcase/physics-museum">打开 Showcase</a></sub>
+
+_含五个互动展项的 3D 科学博物馆。_
+
+**提示词（英文原文）**
+
+```text
+Build a polished interactive science museum with five exhibits.
+
+The concept
+Create a beautiful museum that visitors move through in 3D. The museum and its sculptural exhibits must be authored in Blender, with editable .blend sources and a reproducible asset-generation script, then exported for the interactive web experience. Do not put a live model in the visitor experience: all five exhibits are authored in advance, and visitors play with their fixed interactions. No prompt field, chat interface, or runtime content generation.
+
+This should feel like entering a small, extraordinary science museum: architectural daylight, pale mineral walls, a dark reflective floor used sparingly, brass details, translucent glass, carefully composed shadows, and restrained accents of color.
+```
+
+**中文简述**
+
+含五个互动展项的 3D 科学博物馆。
+
+[Showcase 页面](https://developers.openai.com/showcase/physics-museum) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_physics-museum) · [返回列表](#all-prompts)
+
+---
+
+### 建筑工作室
+<a id="openai-showcase-architecture-studio"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/architecture-studio) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/architecture-studio"><img src="assets/featured/openai-showcase-architecture-studio.webp" width="640" loading="lazy" alt="建筑工作室"></a><br>
+<sub><a href="https://developers.openai.com/showcase/architecture-studio">打开 Showcase</a></sub>
+
+_二维平面图与同步 3D 视图的房间规划器。_
+
+**提示词（英文原文）**
+
+```text
+Build a room planner with one shared document powering a dimensioned 2D floor plan and a synchronized 3D view. Let people resize a rectangular room, place furniture from an original collection, move and rotate pieces, change finishes, and undo edits. Keep furniture editing in the plan and make the 3D view easy to orbit and inspect.
+```
+
+**中文简述**
+
+二维平面图与同步 3D 视图的房间规划器。
+
+[Showcase 页面](https://developers.openai.com/showcase/architecture-studio) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_architecture-studio) · [返回列表](#all-prompts)
+
+---
+
+### 定格动画工作台
+<a id="openai-showcase-stop-motion-desk"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/stop-motion-desk) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-stop-motion-desk-readme.mp4"><img src="assets/featured/openai-showcase-stop-motion-desk.webp" width="640" loading="lazy" alt="播放视频"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-stop-motion-desk-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-stop-motion-desk-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/stop-motion-desk">Showcase</a></sub>
+
+_浏览器内摆姿势与定格动画的 3D 工作室。_
+
+**提示词（英文原文）**
+
+```text
+Build a browser-based stop-motion studio with original 3D characters and props. Let people arrange a scene, adjust a character’s pose, capture frames, preview the animation at different speeds, and export a GIF. Include frame reordering, duplication, deletion, and a clear preview of the previous pose. Keep the creative work on a single stage with a simple timeline below it.
+```
+
+**中文简述**
+
+浏览器内摆姿势与定格动画的 3D 工作室。
+
+[Showcase 页面](https://developers.openai.com/showcase/stop-motion-desk) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_stop-motion-desk) · [返回列表](#all-prompts)
+
+---
+
+
 ## 相关索引
 
+- [OpenAI Developers Showcase](https://developers.openai.com/showcase) — 官方 GPT / Codex / Astra 演示
 - [astra.directory](https://astra.directory) — Astra 独立作品星系索引（联系收录：`hello@astra.directory`；参考帖 [@AnupPandey_X](https://x.com/AnupPandey_X/status/2098828020652093444)）
 - [pmer.cn Astra projects](https://pmer.cn/en/ai-tools/astra-projects/) — 评分目录（[@ai_pmer](https://x.com/ai_pmer/status/2098932007741063179)）
 - [thecrystalbears.com](https://www.thecrystalbears.com/) — 游戏/图书/站点（[@JulianJenkins](https://x.com/JulianJenkins/status/2098858237667737960)）
@@ -785,6 +1055,6 @@ Authorized short ad clip (≤30s). Decode hook / pacing / proof / CTA (~18 eleme
 
 ## 致谢
 
-Scraped from [@OpenAIDevs](https://x.com/OpenAIDevs) [GPT-6 Astra by our community](https://x.com/OpenAIDevs/status/2098827327832822014) article embeds + 回复线程. Layout inspired by public awesome-list formats (not Tripo media). Product CTA: [EasyVeo](https://easyveo.com).
+另收录 [OpenAI Developers Showcase](https://developers.openai.com/showcase) 官方演示。Scraped from [@OpenAIDevs](https://x.com/OpenAIDevs) [GPT-6 Astra by our community](https://x.com/OpenAIDevs/status/2098827327832822014) article embeds + 回复线程. Layout inspired by public awesome-list formats (not Tripo media). Product CTA: [EasyVeo](https://easyveo.com).
 
 详见 [RIGHTS.md](RIGHTS.md)。
