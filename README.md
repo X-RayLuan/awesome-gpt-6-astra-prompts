@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**31 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**32 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -67,6 +67,7 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Backrooms in Blender (VHS)](#backrooms-blender)
 - [ESP32 workbench visualizer](#esp32-workbench)
 - [Swift ray tracer on iPhone GPU](#swift-ray-tracer)
+- [GPT-6 + Blender → Seedance 2.5 workflow](#tanluai-gpt6-blender-seedance) · @TanLuAI
 - [EasyVeo decode → stills → remake](#easyveo-remake-loop)
 
 </details>
@@ -567,6 +568,30 @@ Port a C++ ray tracer to Swift on the iPhone GPU. Show interactive frames and pe
 
 ---
 
+
+### GPT-6 + Blender → Seedance 2.5 workflow
+<a id="tanluai-gpt6-blender-seedance"></a>
+
+[@TanLuAI](https://x.com/TanLuAI) · X article (not Astra — GPT-6 / Codex + Blender whitebox → Seedance 2.5)
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/tanluai-gpt6-blender-seedance-readme.mp4"><img src="assets/featured/tanluai-gpt6-blender-seedance.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/tanluai-gpt6-blender-seedance-readme.mp4">▶ Play video</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/tanluai-gpt6-blender-seedance-readme.mp4">Download MP4</a></sub>
+
+**Prompt** (workflow excerpt — full camera / dialogue / racing prompts in the article)
+
+```text
+Workflow: (1) Send story beats to Codex/GPT-6 for a shot-by-shot script with camera notes for Blender.
+(2) Generate a rough whitebox / proxy 3D preview (cubes OK) that locks blocking, camera, and timing.
+(3) Iterate bad shots with the model. (4) Feed reference video + character/env stills into Seedance 2.5
+with a detailed render prompt (asset anchors, timing, negatives). Example camera-control brief:
+18s 16:9 cinematic urban fantasy — heroine kicks through a Tokyo rooftop door, three agents chase her
+to the ledge, she leaps into mist, returns with red-white wings and a rocket launcher; follow the
+projectile into a rooftop explosion. Keep geometry as placeholders only; regenerate natural motion.
+```
+
+[Original post](https://x.com/TanLuAI/status/2099124935285461329) · [Article](https://x.com/i/article/2099111135169384451) · [Back to examples](#all-prompts)
+
+---
 ### EasyVeo decode → stills → remake
 <a id="easyveo-remake-loop"></a>
 

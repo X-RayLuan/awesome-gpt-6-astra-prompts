@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**31 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**32 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -67,6 +67,7 @@
 - [Blender 后室（VHS）](#backrooms-blender)
 - [ESP32 工作台可视化](#esp32-workbench)
 - [iPhone GPU 上的 Swift 光线追踪](#swift-ray-tracer)
+- [GPT-6 + Blender → Seedance 2.5 工作流](#tanluai-gpt6-blender-seedance) · @TanLuAI
 - [EasyVeo：拆解 → 分镜静帧 → 复刻](#easyveo-remake-loop)
 
 </details>
@@ -687,6 +688,34 @@ C++ 光线追踪移植到 iPhone GPU 的 Swift；展示帧率与性能笔记。
 
 ---
 
+
+### GPT-6 + Blender → Seedance 2.5 工作流
+<a id="tanluai-gpt6-blender-seedance"></a>
+
+[@TanLuAI](https://x.com/TanLuAI) · X 长文（非 Astra — GPT-6/Codex + Blender 白模 → Seedance 2.5）
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/tanluai-gpt6-blender-seedance-readme.mp4"><img src="assets/featured/tanluai-gpt6-blender-seedance.webp" width="640" loading="lazy" alt="播放视频"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/tanluai-gpt6-blender-seedance-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/tanluai-gpt6-blender-seedance-readme.mp4">下载 MP4</a></sub>
+
+**提示词（英文原文）**（工作流摘要 — 完整运镜/对白/赛车提示词见原文）
+
+```text
+Workflow: (1) Send story beats to Codex/GPT-6 for a shot-by-shot script with camera notes for Blender.
+(2) Generate a rough whitebox / proxy 3D preview (cubes OK) that locks blocking, camera, and timing.
+(3) Iterate bad shots with the model. (4) Feed reference video + character/env stills into Seedance 2.5
+with a detailed render prompt (asset anchors, timing, negatives). Example camera-control brief:
+18s 16:9 cinematic urban fantasy — heroine kicks through a Tokyo rooftop door, three agents chase her
+to the ledge, she leaps into mist, returns with red-white wings and a rocket launcher; follow the
+projectile into a rooftop explosion. Keep geometry as placeholders only; regenerate natural motion.
+```
+
+**中文简述**
+
+把灵感发给 Codex/GPT-6 做成带运镜的分镜脚本 → Blender 白模预演走位与镜头 → 多轮改分镜 → 参考视频+角色/场景资产图丢进 Seedance 2.5，用详细渲染提示词出片。示例：东京天台都市奇幻 18 秒复杂运镜。
+
+[原帖](https://x.com/TanLuAI/status/2099124935285461329) · [长文](https://x.com/i/article/2099111135169384451) · [返回列表](#all-prompts)
+
+---
 ### EasyVeo：拆解 → 分镜静帧 → 复刻
 <a id="easyveo-remake-loop"></a>
 
