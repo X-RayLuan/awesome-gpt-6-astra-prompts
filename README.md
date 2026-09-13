@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**31 examples · EN + ZH stub · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**31 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -585,9 +585,10 @@ Authorized short ad clip (≤30s). Decode hook / pacing / proof / CTA (~18 eleme
 
 ## Related indexes
 
-- [astra.directory](https://astra.directory) — galaxy index of builds ([@AnupPandey_X](https://x.com/AnupPandey_X/status/2098828020652093444))
+- [astra.directory](https://astra.directory) — galaxy index of independent Astra builds ([@AnupPandey_X](https://x.com/AnupPandey_X/status/2098828020652093444)). Soft listing contact: `hello@astra.directory`
 - [pmer.cn Astra projects](https://pmer.cn/en/ai-tools/astra-projects/) — scored catalog ([@ai_pmer](https://x.com/ai_pmer/status/2098932007741063179))
 - [thecrystalbears.com](https://www.thecrystalbears.com/) — games/books/site ([@JulianJenkins](https://x.com/JulianJenkins/status/2098858237667737960))
+- This list welcomes PRs via [CONTRIBUTING.md](CONTRIBUTING.md); we prefer reciprocal links with the indexes above
 
 ## Share a good example
 
