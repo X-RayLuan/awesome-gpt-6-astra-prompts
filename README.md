@@ -87,6 +87,11 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Physics museum](#openai-showcase-physics-museum) · GPT-6 Astra
 - [Architecture Studio](#openai-showcase-architecture-studio) · GPT-6 Astra
 - [Stop-Motion Desk](#openai-showcase-stop-motion-desk) · GPT-6 Astra · video
+- [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
+- [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
+- [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
+- [Frame Studio](#openai-showcase-frame-studio) · GPT-6 Astra
+- [Tidegarden](#openai-showcase-tidegarden) · GPT-6 Astra
 
 </details>
 
