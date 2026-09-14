@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**42 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**49 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -68,6 +68,13 @@
 - [ESP32 工作台可视化](#esp32-workbench)
 - [iPhone GPU 上的 Swift 光线追踪](#swift-ray-tracer)
 - [GPT-6 + Blender → Seedance 2.5 工作流](#tanluai-gpt6-blender-seedance) · @TanLuAI
+- [Kaiju Three.js 游戏](#majid-kaiju-threejs) · @majidmanzarpour · video
+- [等距 ARPG → Blender 预告](#mengto-isometric-arpg) · @MengTo · video
+- [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
+- [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
+- [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
+- [Frame Studio](#openai-showcase-frame-studio) · GPT-6 Astra
+- [Tidegarden](#openai-showcase-tidegarden) · GPT-6 Astra
 - [EasyVeo：拆解 → 分镜静帧 → 复刻](#easyveo-remake-loop)
 **OpenAI Showcase**
 - [小小仪式](#openai-showcase-little-ritual) · GPT-6 Astra · video
@@ -763,6 +770,144 @@ projectile into a rooftop explosion. Keep geometry as placeholders only; regener
 [原帖](https://x.com/TanLuAI/status/2099124935285461329) · [长文](https://x.com/i/article/2099111135169384451) · [返回列表](#all-prompts)
 
 ---
+### Kaiju Three.js game
+<a id="majid-kaiju-threejs"></a>
+
+[majidmanzarpour](https://x.com/majidmanzarpour) · 社区演示 · GPT-6 Astra
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/majid-kaiju-threejs-readme.mp4"><img src="assets/previews/majid-kaiju-threejs.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/majid-kaiju-threejs-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/majidmanzarpour/status/2096251574918013135">Original on X</a></sub>
+
+_Kaiju-inspired playable Three.js game; models via Tripo, sound via ElevenLabs. Skill pack on GitHub._
+
+**提示词（英文原文）**
+
+```text
+Pair GPT-6 Astra with a Three.js game-dev skill pack to build an original kaiju-inspired playable browser game. Prioritize feel and polish. Use original creatures and arenas; do not copy commercial kaiju IP art. Credit third-party model/audio tools separately.
+```
+
+[原帖](https://x.com/majidmanzarpour/status/2096251574918013135) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=majid_kaiju_threejs) · [返回列表](#all-prompts)
+
+---
+
+### Isometric ARPG → Blender trailer
+<a id="mengto-isometric-arpg"></a>
+
+[MengTo](https://x.com/MengTo) · 社区演示 · GPT-6 Astra
+
+<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/mengto-isometric-arpg-readme.mp4"><img src="assets/previews/mengto-isometric-arpg.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/mengto-isometric-arpg-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/MengTo/status/2096213835460084184">Original on X</a></sub>
+
+_Procedural isometric action RPG in Three.js (<2MB before images/music), then every scene rebuilt in Blender for a trailer. UI icons via GPT Image 2._
+
+**提示词（英文原文）**
+
+```text
+Build an original isometric action RPG in Three.js mixing Elden Ring–paced exploration with Diablo-style loot, starting in a daytime forest. Keep geometry procedural (no asset packs) so the playable core stays tiny. Then recreate key scenes in Blender and cut a short trailer. Original world and creatures only — do not copy commercial game IP.
+```
+
+[原帖](https://x.com/MengTo/status/2096213835460084184) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=mengto_isometric_arpg) · [返回列表](#all-prompts)
+
+---
+
+### Hollowflux
+<a id="openai-showcase-hollowflux"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/hollowflux) · Thomas Ricouard · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/hollowflux"><img src="assets/featured/openai-showcase-hollowflux.webp" width="640" loading="lazy" alt="Hollowflux"></a><br>
+<sub><a href="https://developers.openai.com/showcase/hollowflux">打开 Showcase</a></sub>
+
+_A procedural dungeon crawler with combat shaped by reactive water._
+
+**提示词（英文原文）**
+
+```text
+Generate five concept images for a top-down pixel dungeon crawler with real-time combat and a procedural fluid engine. Keep characters, equipment, and monsters simple and readable. Explore distinct environments with reactive water, blood particles, metal sparks, and responsive lighting. Aim for atmosphere and systemic variety without copying commercial game IP.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/hollowflux) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_hollowflux) · [返回列表](#all-prompts)
+
+---
+
+### Sunwake
+<a id="openai-showcase-sunwake"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/sunwake) · Thomas Ricouard · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/sunwake"><img src="assets/featured/openai-showcase-sunwake.webp" width="640" loading="lazy" alt="Sunwake"></a><br>
+<sub><a href="https://developers.openai.com/showcase/sunwake">打开 Showcase</a></sub>
+
+_A sailing game about crossing wild seas and reaching lighthouses._
+
+**提示词（英文原文）**
+
+```text
+Generate concept images for a 3D boating game with high seas and large waves at sunrise — sunlight on water, spray, and droplets on camera. Prefer procedural geometry without imported sprites. Aim for extremely smooth movement and physics even if water looks retro/faceted.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/sunwake) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_sunwake) · [返回列表](#all-prompts)
+
+---
+
+### Void Explorer
+<a id="openai-showcase-void-explorer"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/void-explorer) · Thomas Ricouard · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/void-explorer"><img src="assets/featured/openai-showcase-void-explorer.webp" width="640" loading="lazy" alt="Void Explorer"></a><br>
+<sub><a href="https://developers.openai.com/showcase/void-explorer">打开 Showcase</a></sub>
+
+_A procedural space exploration game with planets to land on._
+
+**提示词（英文原文）**
+
+```text
+Generate concept art for a fully explorable procedural universe where every visible star and planet is reachable. Support acceleration, atmospheric descent, and ground views. Use retro-futurist neon 3D with strong contrast — not photoreal, not overly simplistic.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/void-explorer) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_void-explorer) · [返回列表](#all-prompts)
+
+---
+
+### Frame Studio
+<a id="openai-showcase-frame-studio"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/frame-studio) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/frame-studio"><img src="assets/featured/openai-showcase-frame-studio.webp" width="640" loading="lazy" alt="Frame Studio"></a><br>
+<sub><a href="https://developers.openai.com/showcase/frame-studio">打开 Showcase</a></sub>
+
+_A portfolio site for a fictional motion design studio._
+
+**提示词（英文原文）**
+
+```text
+Build a polished interactive landing page for a fictional motion-design studio. Bold black/white with acid lime and ultramarine accents. Hero showreel with three original silent scenes and a scrubbable timeline that stays in sync with play/pause and scene selection. No real client logos or fabricated awards.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/frame-studio) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_frame-studio) · [返回列表](#all-prompts)
+
+---
+
+### Tidegarden
+<a id="openai-showcase-tidegarden"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/tidegarden) · Eric Provencher · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/tidegarden"><img src="assets/featured/openai-showcase-tidegarden.webp" width="640" loading="lazy" alt="Tidegarden"></a><br>
+<sub><a href="https://developers.openai.com/showcase/tidegarden">打开 Showcase</a></sub>
+
+_A 3D tropical island with a living reef and rolling waves._
+
+**提示词（英文原文）**
+
+```text
+Create a tiny tropical island with a beach, grass, one palm, open ocean, and clouds. Use a believable realtime 3D reference (leaning palm, turquoise shallows, warm afternoon light) as the visual north star, then improve foliage, reef banks, refraction, and shoreline wash tied to traveling waves.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/tidegarden) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_tidegarden) · [返回列表](#all-prompts)
+
 ### EasyVeo：拆解 → 分镜静帧 → 复刻
 <a id="easyveo-remake-loop"></a>
 
