@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**49 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**54 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -75,6 +75,11 @@
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
 - [Frame Studio](#openai-showcase-frame-studio) · GPT-6 Astra
 - [Tidegarden](#openai-showcase-tidegarden) · GPT-6 Astra
+- [Nightjar Listening Room](#openai-showcase-nightjar-listening-room) · GPT-6 Astra
+- [Pattern Studio](#openai-showcase-pattern-studio) · GPT-6 Astra
+- [Ridge Pack](#openai-showcase-ridge-pack) · GPT-6 Astra
+- [Tidal House](#openai-showcase-tidal-house) · GPT-6 Astra
+- [Type Field](#openai-showcase-type-field) · GPT-6 Astra
 - [EasyVeo：拆解 → 分镜静帧 → 复刻](#easyveo-remake-loop)
 **OpenAI Showcase**
 - [小小仪式](#openai-showcase-little-ritual) · GPT-6 Astra · video
@@ -907,6 +912,106 @@ Create a tiny tropical island with a beach, grass, one palm, open ocean, and clo
 ```
 
 [Showcase 页面](https://developers.openai.com/showcase/tidegarden) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_tidegarden) · [返回列表](#all-prompts)
+
+### Nightjar Listening Room
+<a id="openai-showcase-nightjar-listening-room"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/nightjar-listening-room) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/nightjar-listening-room"><img src="assets/featured/openai-showcase-nightjar-listening-room.webp" width="640" loading="lazy" alt="Nightjar Listening Room"></a><br>
+<sub><a href="https://developers.openai.com/showcase/nightjar-listening-room">打开 Showcase</a></sub>
+
+_A landing page for a fictional listening room with original audio._
+
+**提示词（英文原文）**
+
+```text
+Build a polished interactive landing page for Nightjar, an imagined listening room. Warm tobacco wood, near-black, oxblood and amber light. Hero with turntable/sleeve/speaker and a “Play a sample” control. Offer three original short instrumental loops; selecting a record changes sleeve, label, and sound with synchronized tonearm/platter motion. Scrolling reveals bench, speakers, and bar. Include a compact listening programme and a local shortlist. No copyrighted commercial recordings or fake ticketing.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/nightjar-listening-room) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_nightjar_listening_room) · [返回列表](#all-prompts)
+
+---
+
+### Pattern Studio
+<a id="openai-showcase-pattern-studio"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/pattern-studio) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/pattern-studio"><img src="assets/featured/openai-showcase-pattern-studio.webp" width="640" loading="lazy" alt="Pattern Studio"></a><br>
+<sub><a href="https://developers.openai.com/showcase/pattern-studio">打开 Showcase</a></sub>
+
+_A design tool for creating seamless patterns and previewing them on objects._
+
+**提示词（英文原文）**
+
+```text
+Build a seamless pattern editor with an original vector motif library and freehand custom motifs. Move, rotate, resize, layer, and recolor shapes in an editable tile. Support straight, half-drop, and mirrored repeats, plus previews on a cushion and wrapping paper. Include undo/redo, export of repeating tiles, and optional ChatGPT-account saving.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/pattern-studio) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_pattern_studio) · [返回列表](#all-prompts)
+
+---
+
+### Ridge Pack
+<a id="openai-showcase-ridge-pack"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/ridge-pack) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/ridge-pack"><img src="assets/featured/openai-showcase-ridge-pack.webp" width="640" loading="lazy" alt="Ridge Pack"></a><br>
+<sub><a href="https://developers.openai.com/showcase/ridge-pack">打开 Showcase</a></sub>
+
+_A fictional backpack storefront with an interactive packing guide._
+
+**提示词（英文原文）**
+
+```text
+Build a polished interactive landing page for Ridge, an imagined outdoor day-pack brand. Chalk white, mountain blue, burnt orange, and graphite. Hero: “One pack for a day on the trail” with a coherent 3D pack and “Try the packing guide.” Exploded/cutaway compartments; visitors add 6–8 predefined objects with real fit feedback by compartment size. Changing pack size preserves what still fits. No checkout or hiking-safety claims.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/ridge-pack) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_ridge_pack) · [返回列表](#all-prompts)
+
+---
+
+### Tidal House
+<a id="openai-showcase-tidal-house"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/tidal-house) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/tidal-house"><img src="assets/featured/openai-showcase-tidal-house.webp" width="640" loading="lazy" alt="Tidal House"></a><br>
+<sub><a href="https://developers.openai.com/showcase/tidal-house">打开 Showcase</a></sub>
+
+_A landing page for a fictional coastal cabin retreat._
+
+**提示词（英文原文）**
+
+```text
+Build a polished interactive landing page for Tidal House, an imagined coastal retreat with three cabins around a sheltered inlet. Slate, pale sea-green, weathered timber, ivory. Pinned landscape lets visitors choose a cabin; camera moves closer and reveals a consistent floor plan/interior. Morning/evening light and low/high-tide previews. Finish with a downloadable stay-plan summary — no fake reservations or payments.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/tidal-house) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_tidal_house) · [返回列表](#all-prompts)
+
+---
+
+### Type Field
+<a id="openai-showcase-type-field"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/type-field) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/type-field"><img src="assets/featured/openai-showcase-type-field.webp" width="640" loading="lazy" alt="Type Field"></a><br>
+<sub><a href="https://developers.openai.com/showcase/type-field">打开 Showcase</a></sub>
+
+_An interactive site for experimenting with typography._
+
+**提示词（英文原文）**
+
+```text
+Build a polished interactive typography exhibition using a licensed open-source variable font (credit accurately). Vivid orange, warm white, black. Hero specimen with real weight/width axis controls. Scroll through compact headline, editorial paragraph, and poster compositions. “Make a poster” with short title, three authored grids, palettes, and real SVG/PNG download. Optional baseline/grid overlay. No fabricated font authorship.
+```
+
+[Showcase 页面](https://developers.openai.com/showcase/type-field) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_type_field) · [返回列表](#all-prompts)
+
+---
 
 ### EasyVeo：拆解 → 分镜静帧 → 复刻
 <a id="easyveo-remake-loop"></a>
