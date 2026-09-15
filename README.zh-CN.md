@@ -17,16 +17,16 @@
 
 ## 精选项目
 
-<sub>点击缩略图或 ▶ 播放，在 GitHub 内置播放器打开视频。片段已压缩；完整原片在 X。</sub>
+<sub>点击缩略图或 ▶ 播放，在浏览器中直接播放。片段已压缩；完整原片在 X。下载链接仍指向 GitHub Release。</sub>
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/nurm-alex-inkstorm-readme.mp4"><img src="assets/featured/nurm-coral.webp" width="420" loading="lazy" alt="Alex 与墨雨风暴"></a><br><strong><a href="#alex-and-the-inkstorm">Alex 与墨雨风暴</a></strong><br><sub><a href="https://x.com/NURM_Dima/status/2096534403610562910">@NURM_Dima</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/nurm-alex-inkstorm-readme.mp4">▶ 播放</a></sub><br><a href="#alex-and-the-inkstorm">提示词 →</a></td>
-<td width="50%" valign="top"><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/pallav-tron-lightcycle-readme.mp4"><img src="assets/featured/pallav-tron.webp" width="420" loading="lazy" alt="光轮对战 → 可玩原型"></a><br><strong><a href="#tron-lightcycle-to-playable">光轮对战 → 可玩原型</a></strong><br><sub><a href="https://x.com/pallavmac/status/2097016391903657991">@pallavmac</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/pallav-tron-lightcycle-readme.mp4">▶ 播放</a></sub><br><a href="#tron-lightcycle-to-playable">提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/nurm-alex-inkstorm-readme.mp4"><img src="assets/featured/nurm-coral.webp" width="420" loading="lazy" alt="Alex 与墨雨风暴"></a><br><strong><a href="#alex-and-the-inkstorm">Alex 与墨雨风暴</a></strong><br><sub><a href="https://x.com/NURM_Dima/status/2096534403610562910">@NURM_Dima</a> · <a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/nurm-alex-inkstorm-readme.mp4">▶ 播放</a></sub><br><a href="#alex-and-the-inkstorm">提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/pallav-tron-lightcycle-readme.mp4"><img src="assets/featured/pallav-tron.webp" width="420" loading="lazy" alt="光轮对战 → 可玩原型"></a><br><strong><a href="#tron-lightcycle-to-playable">光轮对战 → 可玩原型</a></strong><br><sub><a href="https://x.com/pallavmac/status/2097016391903657991">@pallavmac</a> · <a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/pallav-tron-lightcycle-readme.mp4">▶ 播放</a></sub><br><a href="#tron-lightcycle-to-playable">提示词 →</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/miki-4d-chess-readme.mp4"><img src="assets/featured/miki-4d-chess.webp" width="420" loading="lazy" alt="可玩四维象棋"></a><br><strong><a href="#miki-4d-chess">可玩四维象棋</a></strong><br><sub><a href="https://x.com/miki_code/status/2096132455652549117">@miki_code</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/miki-4d-chess-readme.mp4">▶ 播放</a></sub><br><a href="#miki-4d-chess">提示词 →</a></td>
-<td width="50%" valign="top"><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/scribble-tanks-readme.mp4"><img src="assets/featured/scribble-tanks.webp" width="420" loading="lazy" alt="Scribble Tanks 涂鸦坦克"></a><br><strong><a href="#scribble-tanks">Scribble Tanks 涂鸦坦克</a></strong><br><sub><a href="https://x.com/shortaktien/status/2098874536028410196">@shortaktien</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/scribble-tanks-readme.mp4">▶ 播放</a></sub><br><a href="#scribble-tanks">提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/miki-4d-chess-readme.mp4"><img src="assets/featured/miki-4d-chess.webp" width="420" loading="lazy" alt="可玩四维象棋"></a><br><strong><a href="#miki-4d-chess">可玩四维象棋</a></strong><br><sub><a href="https://x.com/miki_code/status/2096132455652549117">@miki_code</a> · <a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/miki-4d-chess-readme.mp4">▶ 播放</a></sub><br><a href="#miki-4d-chess">提示词 →</a></td>
+<td width="50%" valign="top"><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/scribble-tanks-readme.mp4"><img src="assets/featured/scribble-tanks.webp" width="420" loading="lazy" alt="Scribble Tanks 涂鸦坦克"></a><br><strong><a href="#scribble-tanks">Scribble Tanks 涂鸦坦克</a></strong><br><sub><a href="https://x.com/shortaktien/status/2098874536028410196">@shortaktien</a> · <a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/scribble-tanks-readme.mp4">▶ 播放</a></sub><br><a href="#scribble-tanks">提示词 →</a></td>
 </tr>
 </table>
 
@@ -102,8 +102,8 @@
 
 [NURM_Dima](https://x.com/NURM_Dima) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/nurm-alex-inkstorm-readme.mp4"><img src="assets/previews/nurm-alex-inkstorm.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/nurm-alex-inkstorm-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/nurm-alex-inkstorm-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/nurm-alex-inkstorm-readme.mp4"><img src="assets/previews/nurm-alex-inkstorm.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/nurm-alex-inkstorm-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/nurm-alex-inkstorm-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -124,8 +124,8 @@ I uploaded a photo. Make this person the hero of an original platformer with mul
 
 [pallavmac](https://x.com/pallavmac) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/pallav-tron-lightcycle-readme.mp4"><img src="assets/previews/pallav-tron-lightcycle.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/pallav-tron-lightcycle-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/pallav-tron-lightcycle-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/pallav-tron-lightcycle-readme.mp4"><img src="assets/previews/pallav-tron-lightcycle.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/pallav-tron-lightcycle-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/pallav-tron-lightcycle-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -146,8 +146,8 @@ Render a lightcycle-style arena battle in Blender, then port a playable slice to
 
 [@miki_code](https://x.com/miki_code) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/miki-4d-chess-readme.mp4"><img src="assets/featured/miki-4d-chess.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/miki-4d-chess-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/miki-4d-chess-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/miki-4d-chess-readme.mp4"><img src="assets/featured/miki-4d-chess.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/miki-4d-chess-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/miki-4d-chess-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -168,8 +168,8 @@ Build a playable 4D chess prototype with clear piece moves across a fourth dimen
 
 [@shortaktien](https://x.com/shortaktien) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/scribble-tanks-readme.mp4"><img src="assets/featured/scribble-tanks.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/scribble-tanks-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/scribble-tanks-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/scribble-tanks-readme.mp4"><img src="assets/featured/scribble-tanks.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/scribble-tanks-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/scribble-tanks-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -232,8 +232,8 @@ Build a browser wavetable synth with modulation, an FX graph, and bounce-to-samp
 
 [@yasei_no_otoko](https://x.com/yasei_no_otoko) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/panzer-dragon-readme.mp4"><img src="assets/featured/panzer-dragon.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/panzer-dragon-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/panzer-dragon-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/panzer-dragon-readme.mp4"><img src="assets/featured/panzer-dragon.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/panzer-dragon-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/panzer-dragon-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -254,8 +254,8 @@ Create a Panzer Dragoon–style dragon flight over a flooded city. Original crea
 
 [@dandumt23](https://x.com/dandumt23) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/spline-rush-readme.mp4"><img src="assets/featured/spline-rush.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/spline-rush-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/spline-rush-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/spline-rush-readme.mp4"><img src="assets/featured/spline-rush.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/spline-rush-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/spline-rush-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -276,8 +276,8 @@ One-shot racing game Spline Rush on Azure Coast: satisfying handling, instant re
 
 [@dandumt23](https://x.com/dandumt23) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/aetherfall-readme.mp4"><img src="assets/featured/aetherfall.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/aetherfall-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/aetherfall-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/aetherfall-readme.mp4"><img src="assets/featured/aetherfall.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/aetherfall-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/aetherfall-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -298,8 +298,8 @@ Dark platformer across linked islands: Aetherfall — Twilight Expanse. Readable
 
 [@solid_fdn](https://x.com/solid_fdn) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/solifan-readme.mp4"><img src="assets/featured/solifan.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/solifan-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/solifan-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/solifan-readme.mp4"><img src="assets/featured/solifan.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/solifan-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/solifan-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -320,8 +320,8 @@ Exploded 3D workplace over a city map with hundreds of moving parts and clear ca
 
 [@GZhan57](https://x.com/GZhan57) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/thumper-rhythm-readme.mp4"><img src="assets/featured/thumper-rhythm.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/thumper-rhythm-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/thumper-rhythm-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/thumper-rhythm-readme.mp4"><img src="assets/featured/thumper-rhythm.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/thumper-rhythm-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/thumper-rhythm-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -363,8 +363,8 @@ Build a polished blob physics game. Note model used (Astra or other) in the READ
 
 [@KanaWorks_AI](https://x.com/KanaWorks_AI) · 回复线程
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/blender-seedance-readme.mp4"><img src="assets/featured/blender-seedance.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/blender-seedance-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/blender-seedance-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/blender-seedance-readme.mp4"><img src="assets/featured/blender-seedance.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/blender-seedance-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/blender-seedance-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -469,8 +469,8 @@ Galaxy-style index of independent Astra builds with links out to each project.
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/anatomical-atlas-3d-readme.mp4"><img src="assets/featured/anatomical-atlas-3d.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/anatomical-atlas-3d-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/anatomical-atlas-3d-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/anatomical-atlas-3d-readme.mp4"><img src="assets/featured/anatomical-atlas-3d.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/anatomical-atlas-3d-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/anatomical-atlas-3d-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -491,8 +491,8 @@ Build an interactive 3D anatomical explorer with thousands of selectable parts, 
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/manhattan-unreal-readme.mp4"><img src="assets/featured/manhattan-unreal.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/manhattan-unreal-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/manhattan-unreal-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/manhattan-unreal-readme.mp4"><img src="assets/featured/manhattan-unreal.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/manhattan-unreal-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/manhattan-unreal-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -513,8 +513,8 @@ Recreate a recognizable Manhattan slice in Unreal Engine with readable landmarks
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/van-gogh-threejs-town-readme.mp4"><img src="assets/featured/van-gogh-threejs-town.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/van-gogh-threejs-town-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/van-gogh-threejs-town-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/van-gogh-threejs-town-readme.mp4"><img src="assets/featured/van-gogh-threejs-town.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/van-gogh-threejs-town-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/van-gogh-threejs-town-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -535,8 +535,8 @@ Turn a set of paintings into a walkable miniature town in Three.js. Preserve mot
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/sweep-ar-readme.mp4"><img src="assets/featured/sweep-ar.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/sweep-ar-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/sweep-ar-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/sweep-ar-readme.mp4"><img src="assets/featured/sweep-ar.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/sweep-ar-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/sweep-ar-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -557,8 +557,8 @@ AR 原型：房间覆盖/清扫进度可视化。
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/train-blender-readme.mp4"><img src="assets/featured/train-blender.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/train-blender-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/train-blender-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/train-blender-readme.mp4"><img src="assets/featured/train-blender.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/train-blender-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/train-blender-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -579,8 +579,8 @@ Take a train line drawing and build a fully editable Blender model with a deep o
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/underwater-browser-game-readme.mp4"><img src="assets/featured/underwater-browser-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/underwater-browser-game-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/underwater-browser-game-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/underwater-browser-game-readme.mp4"><img src="assets/featured/underwater-browser-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/underwater-browser-game-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/underwater-browser-game-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -601,8 +601,8 @@ Astra+Blender 资产的水下浏览器游戏：简单操控、打磨手感。
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/lego-designs-readme.mp4"><img src="assets/featured/lego-designs.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/lego-designs-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/lego-designs-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/lego-designs-readme.mp4"><img src="assets/featured/lego-designs.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/lego-designs-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/lego-designs-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -623,8 +623,8 @@ Prototype images/ideas → custom LEGO-style designs with assembly steps. Keep d
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/air-traffic-unity-readme.mp4"><img src="assets/featured/air-traffic-unity.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/air-traffic-unity-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/air-traffic-unity-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/air-traffic-unity-readme.mp4"><img src="assets/featured/air-traffic-unity.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/air-traffic-unity-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/air-traffic-unity-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -645,8 +645,8 @@ Unity 混合现实空管：可读飞机、航线与情景控制。
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/screen-to-ui-readme.mp4"><img src="assets/featured/screen-to-ui.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/screen-to-ui-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/screen-to-ui-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/screen-to-ui-readme.mp4"><img src="assets/featured/screen-to-ui.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/screen-to-ui-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/screen-to-ui-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -667,8 +667,8 @@ From a screen recording, reconstruct an interactive interface including animatio
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/browser-racing-readme.mp4"><img src="assets/featured/browser-racing.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/browser-racing-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/browser-racing-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/browser-racing-readme.mp4"><img src="assets/featured/browser-racing.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/browser-racing-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/browser-racing-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -689,8 +689,8 @@ Three.js 浏览器竞速：手感、单赛道、秒重开。
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/backrooms-blender-readme.mp4"><img src="assets/featured/backrooms-blender.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/backrooms-blender-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/backrooms-blender-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/backrooms-blender-readme.mp4"><img src="assets/featured/backrooms-blender.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/backrooms-blender-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/backrooms-blender-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -730,8 +730,8 @@ ESP32 板卡/元件/接线可视化工作台，带互动标注。
 
 OpenAIDevs 长文
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/swift-ray-tracer-readme.mp4"><img src="assets/featured/swift-ray-tracer.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/swift-ray-tracer-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/swift-ray-tracer-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/swift-ray-tracer-readme.mp4"><img src="assets/featured/swift-ray-tracer.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/swift-ray-tracer-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/swift-ray-tracer-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**
 
@@ -753,8 +753,8 @@ C++ 光线追踪移植到 iPhone GPU 的 Swift；展示帧率与性能笔记。
 
 [@TanLuAI](https://x.com/TanLuAI) · X 长文（非 Astra — GPT-6/Codex + Blender 白模 → Seedance 2.5）
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/tanluai-gpt6-blender-seedance-readme.mp4"><img src="assets/featured/tanluai-gpt6-blender-seedance.webp" width="640" loading="lazy" alt="播放视频"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/tanluai-gpt6-blender-seedance-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/tanluai-gpt6-blender-seedance-readme.mp4">下载 MP4</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/tanluai-gpt6-blender-seedance-readme.mp4"><img src="assets/featured/tanluai-gpt6-blender-seedance.webp" width="640" loading="lazy" alt="播放视频"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/tanluai-gpt6-blender-seedance-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/tanluai-gpt6-blender-seedance-readme.mp4">下载 MP4</a></sub>
 
 **提示词（英文原文）**（工作流摘要 — 完整运镜/对白/赛车提示词见原文）
 
@@ -780,8 +780,8 @@ projectile into a rooftop explosion. Keep geometry as placeholders only; regener
 
 [majidmanzarpour](https://x.com/majidmanzarpour) · 社区演示 · GPT-6 Astra
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/majid-kaiju-threejs-readme.mp4"><img src="assets/previews/majid-kaiju-threejs.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/majid-kaiju-threejs-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/majidmanzarpour/status/2096251574918013135">Original on X</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/majid-kaiju-threejs-readme.mp4"><img src="assets/previews/majid-kaiju-threejs.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/majid-kaiju-threejs-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/majidmanzarpour/status/2096251574918013135">Original on X</a></sub>
 
 _Kaiju-inspired playable Three.js game; models via Tripo, sound via ElevenLabs. Skill pack on GitHub._
 
@@ -800,8 +800,8 @@ Pair GPT-6 Astra with a Three.js game-dev skill pack to build an original kaiju-
 
 [MengTo](https://x.com/MengTo) · 社区演示 · GPT-6 Astra
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/mengto-isometric-arpg-readme.mp4"><img src="assets/previews/mengto-isometric-arpg.webp" width="640" loading="lazy" alt="Play video"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/mengto-isometric-arpg-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/MengTo/status/2096213835460084184">Original on X</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/mengto-isometric-arpg-readme.mp4"><img src="assets/previews/mengto-isometric-arpg.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/mengto-isometric-arpg-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/MengTo/status/2096213835460084184">Original on X</a></sub>
 
 _Procedural isometric action RPG in Three.js (<2MB before images/music), then every scene rebuilt in Blender for a trailer. UI icons via GPT Image 2._
 
@@ -1038,8 +1038,8 @@ Authorized short ad clip (≤30s). Decode hook / pacing / proof / CTA (~18 eleme
 
 [OpenAI Showcase](https://developers.openai.com/showcase/little-ritual) · Jeff Wang · 官方演示 · GPT-6 Astra
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-little-ritual-readme.mp4"><img src="assets/featured/openai-showcase-little-ritual.webp" width="640" loading="lazy" alt="播放视频"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-little-ritual-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-little-ritual-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/little-ritual">Showcase</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/openai-showcase-little-ritual-readme.mp4"><img src="assets/featured/openai-showcase-little-ritual.webp" width="640" loading="lazy" alt="播放视频"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/openai-showcase-little-ritual-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-little-ritual-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/little-ritual">Showcase</a></sub>
 
 _球形小世界上的 3D 咖啡配送游戏。_
 
@@ -1062,8 +1062,8 @@ Build an original single-player 3D browser game about delivering coffee, set on 
 
 [OpenAI Showcase](https://developers.openai.com/showcase/velocity-loop) · VB Srivastav · 官方演示 · GPT-6 Astra
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-velocity-loop-readme.mp4"><img src="assets/featured/openai-showcase-velocity-loop.webp" width="640" loading="lazy" alt="播放视频"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-velocity-loop-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-velocity-loop-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/velocity-loop">Showcase</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/openai-showcase-velocity-loop-readme.mp4"><img src="assets/featured/openai-showcase-velocity-loop.webp" width="640" loading="lazy" alt="播放视频"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/openai-showcase-velocity-loop-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-velocity-loop-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/velocity-loop">Showcase</a></sub>
 
 _微型工坊里的 3D 玩具车计时赛。_
 
@@ -1271,8 +1271,8 @@ Build a room planner with one shared document powering a dimensioned 2D floor pl
 
 [OpenAI Showcase](https://developers.openai.com/showcase/stop-motion-desk) · Katia Gil Guzman · 官方演示 · GPT-6 Astra
 
-<a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-stop-motion-desk-readme.mp4"><img src="assets/featured/openai-showcase-stop-motion-desk.webp" width="640" loading="lazy" alt="播放视频"></a><br>
-<sub><a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/blob/main/assets/videos/openai-showcase-stop-motion-desk-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-stop-motion-desk-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/stop-motion-desk">Showcase</a></sub>
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/openai-showcase-stop-motion-desk-readme.mp4"><img src="assets/featured/openai-showcase-stop-motion-desk.webp" width="640" loading="lazy" alt="播放视频"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/openai-showcase-stop-motion-desk-readme.mp4">▶ 播放视频</a> · <a href="https://github.com/X-RayLuan/awesome-gpt-6-astra-prompts/releases/download/media-v1/openai-showcase-stop-motion-desk-readme.mp4">下载 MP4</a> · <a href="https://developers.openai.com/showcase/stop-motion-desk">Showcase</a></sub>
 
 _浏览器内摆姿势与定格动画的 3D 工作室。_
 
