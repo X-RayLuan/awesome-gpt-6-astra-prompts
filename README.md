@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**54 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**55 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -70,6 +70,7 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [GPT-6 + Blender → Seedance 2.5 workflow](#tanluai-gpt6-blender-seedance) · @TanLuAI
 - [Kaiju Three.js game](#majid-kaiju-threejs) · @majidmanzarpour · video
 - [Isometric ARPG → Blender trailer](#mengto-isometric-arpg) · @MengTo · video
+- [PaperRoute](#builtbysketch-paperroute) · @builtbysketch · video
 - [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
 - [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
@@ -698,6 +699,26 @@ Build an original isometric action RPG in Three.js mixing Elden Ring–paced exp
 ```
 
 [Original post](https://x.com/MengTo/status/2096213835460084184) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=mengto_isometric_arpg) · [Back to examples](#all-prompts)
+
+---
+
+### PaperRoute
+<a id="builtbysketch-paperroute"></a>
+
+[@builtbysketch](https://x.com/builtbysketch) · Emm Tee · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/builtbysketch-paperroute-readme.mp4"><img src="assets/previews/builtbysketch-paperroute.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/builtbysketch-paperroute-readme.mp4">▶ Play video</a> · <a href="https://x.com/builtbysketch/status/2098777028078211283">Original on X</a></sub>
+
+_Finished Paperboy-inspired browser delivery game (Cedar Hollow / paperroute.lol). Blender street props via Python, Meshy rider characters, GPT-6 Astra for mechanics + polish. Author reports ~1.6B tokens._
+
+**Prompt**
+
+```text
+Build an original newspaper-delivery bike game for the browser: Mon–Sun routes, subscribers vs non-subscribers, mailboxes, cars, dogs, ballistic paper throws, lives, scoring, and a short park finish. Separate game-mechanics work from art direction. Generate Blender street props (houses, trees, fences, mailboxes) via reproducible Python/GLB exports; use original stylized characters (concept → mesh → reduce/rig/fit) rather than cloning commercial Paperboy assets. Add weather, window-smash flourishes, and a newspaper-themed results UI. Ship a playable web build.
+```
+
+[Original post](https://x.com/builtbysketch/status/2098777028078211283) · [Play](https://paperroute.lol) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=builtbysketch_paperroute) · [Back to examples](#all-prompts)
 
 ---
 
