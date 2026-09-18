@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**55 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**57 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -71,6 +71,8 @@
 - [Kaiju Three.js 游戏](#majid-kaiju-threejs) · @majidmanzarpour · video
 - [等距 ARPG → Blender 预告](#mengto-isometric-arpg) · @MengTo · video
 - [PaperRoute](#builtbysketch-paperroute) · @builtbysketch · video
+- [Weeping Angels 浏览器恐怖](#blendibyl-weeping-angels) · @BlendiByl · video
+- [Mac 水族箱壁纸](#chaseleantj-aquarium-wallpaper) · @chaseleantj · video
 - [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
 - [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
@@ -833,6 +835,46 @@ Build an original newspaper-delivery bike game for the browser: Mon–Sun routes
 ```
 
 [原帖](https://x.com/builtbysketch/status/2098777028078211283) · [试玩](https://paperroute.lol) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=builtbysketch_paperroute) · [返回列表](#all-prompts)
+
+---
+
+### Weeping Angels 浏览器恐怖
+<a id="blendibyl-weeping-angels"></a>
+
+[@BlendiByl](https://x.com/BlendiByl) · Blendi · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/blendibyl-weeping-angels-readme.mp4"><img src="assets/previews/blendibyl-weeping-angels.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/blendibyl-weeping-angels-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/BlendiByl/status/2100442177159729336">X 原帖</a></sub>
+
+_浏览器第一人称恐怖（「别移开视线」）：石像只在你不看它时移动。fal 资产管线（参考图 → Meshy 网格 → 材质/音效）+ Blender 姿势清理后装入 Three.js；用 Codex 里的 GPT-6 Astra 迭代玩法、光照与音频。成品资产可玩 — 无需在线 API Key。_
+
+**提示词（英文原文）**
+
+```text
+Build an original browser first-person horror demo where stone statues only move when the player is not looking at them (Weeping Angels–style mechanic, not licensed Doctor Who art). Short candlelight window, flashlight, pitch-dark moments where staring alone should not always save you — even a sliver of a wing beside a column must freeze the whole figure. Generate reference images and 3D meshes via an external asset pipeline, clean poses in Blender, then assemble in Three.js with baked assets so the build runs offline in the browser. Iterate gameplay, lighting, and audio with GPT-6 Astra in Codex until the look-away rules feel fair and scary.
+```
+
+[原帖](https://x.com/BlendiByl/status/2100442177159729336) · [试玩](https://weeping-angels.vercel.app/) · [代码](https://github.com/blendi-remade/weeping-angels) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=blendibyl_weeping_angels) · [返回列表](#all-prompts)
+
+---
+
+### Mac 水族箱壁纸
+<a id="chaseleantj-aquarium-wallpaper"></a>
+
+[@chaseleantj](https://x.com/chaseleantj) · Chase Lean · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/chaseleantj-aquarium-readme.mp4"><img src="assets/previews/chaseleantj-aquarium.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/chaseleantj-aquarium-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/chaseleantj/status/2100663203076128908">X 原帖</a></sub>
+
+_互动式 Mac 桌面水族箱壁纸：鱼群随光标移动而转向。仍是原型 — 作者还在优化续航/GPU，尚未公开发布。_
+
+**提示词（英文原文）**
+
+```text
+Create an interactive aquarium wallpaper for macOS. Fill the desktop with a lightweight underwater scene where schools of fish respond in real time to the cursor (treat the pointer like bait). Prefer a smooth, always-on feel suitable as a daily wallpaper; keep rendering cheap enough that it does not drain the laptop battery. Ship a working visual prototype first, then optimize frame rate and GPU use for all-day use.
+```
+
+[原帖](https://x.com/chaseleantj/status/2100663203076128908) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=chaseleantj_aquarium_wallpaper) · [返回列表](#all-prompts)
 
 ---
 

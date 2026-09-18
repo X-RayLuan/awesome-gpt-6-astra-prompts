@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**55 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**57 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -71,6 +71,8 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Kaiju Three.js game](#majid-kaiju-threejs) · @majidmanzarpour · video
 - [Isometric ARPG → Blender trailer](#mengto-isometric-arpg) · @MengTo · video
 - [PaperRoute](#builtbysketch-paperroute) · @builtbysketch · video
+- [Weeping Angels browser horror](#blendibyl-weeping-angels) · @BlendiByl · video
+- [Mac aquarium wallpaper](#chaseleantj-aquarium-wallpaper) · @chaseleantj · video
 - [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
 - [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
@@ -719,6 +721,46 @@ Build an original newspaper-delivery bike game for the browser: Mon–Sun routes
 ```
 
 [Original post](https://x.com/builtbysketch/status/2098777028078211283) · [Play](https://paperroute.lol) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=builtbysketch_paperroute) · [Back to examples](#all-prompts)
+
+---
+
+### Weeping Angels browser horror
+<a id="blendibyl-weeping-angels"></a>
+
+[@BlendiByl](https://x.com/BlendiByl) · Blendi · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/blendibyl-weeping-angels-readme.mp4"><img src="assets/previews/blendibyl-weeping-angels.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/blendibyl-weeping-angels-readme.mp4">▶ Play video</a> · <a href="https://x.com/BlendiByl/status/2100442177159729336">Original on X</a></sub>
+
+_Browser first-person horror (“Don’t Look Away”): statues move only when you look away. fal asset pipeline (image refs → Meshy meshes → materials/SFX) + Blender pose cleanup into Three.js; GPT-6 Astra in Codex for gameplay, lighting, and audio. Playable with finished assets — no live API keys._
+
+**Prompt**
+
+```text
+Build an original browser first-person horror demo where stone statues only move when the player is not looking at them (Weeping Angels–style mechanic, not licensed Doctor Who art). Short candlelight window, flashlight, pitch-dark moments where staring alone should not always save you — even a sliver of a wing beside a column must freeze the whole figure. Generate reference images and 3D meshes via an external asset pipeline, clean poses in Blender, then assemble in Three.js with baked assets so the build runs offline in the browser. Iterate gameplay, lighting, and audio with GPT-6 Astra in Codex until the look-away rules feel fair and scary.
+```
+
+[Original post](https://x.com/BlendiByl/status/2100442177159729336) · [Play](https://weeping-angels.vercel.app/) · [Code](https://github.com/blendi-remade/weeping-angels) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=blendibyl_weeping_angels) · [Back to examples](#all-prompts)
+
+---
+
+### Mac aquarium wallpaper
+<a id="chaseleantj-aquarium-wallpaper"></a>
+
+[@chaseleantj](https://x.com/chaseleantj) · Chase Lean · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/chaseleantj-aquarium-readme.mp4"><img src="assets/previews/chaseleantj-aquarium.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/chaseleantj-aquarium-readme.mp4">▶ Play video</a> · <a href="https://x.com/chaseleantj/status/2100663203076128908">Original on X</a></sub>
+
+_Interactive Mac desktop aquarium wallpaper: schools of fish change direction as the cursor moves. Prototype — author still optimizing battery/GPU use before a public release._
+
+**Prompt**
+
+```text
+Create an interactive aquarium wallpaper for macOS. Fill the desktop with a lightweight underwater scene where schools of fish respond in real time to the cursor (treat the pointer like bait). Prefer a smooth, always-on feel suitable as a daily wallpaper; keep rendering cheap enough that it does not drain the laptop battery. Ship a working visual prototype first, then optimize frame rate and GPU use for all-day use.
+```
+
+[Original post](https://x.com/chaseleantj/status/2100663203076128908) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=chaseleantj_aquarium_wallpaper) · [Back to examples](#all-prompts)
 
 ---
 
