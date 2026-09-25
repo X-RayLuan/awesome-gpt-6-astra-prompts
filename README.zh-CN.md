@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**57 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**58 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -73,6 +73,7 @@
 - [PaperRoute](#builtbysketch-paperroute) · @builtbysketch · video
 - [Weeping Angels 浏览器恐怖](#blendibyl-weeping-angels) · @BlendiByl · video
 - [Mac 水族箱壁纸](#chaseleantj-aquarium-wallpaper) · @chaseleantj · video
+- [The Crownless](#izkimar-crownless) · @Izkimar · video
 - [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
 - [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
@@ -875,6 +876,26 @@ Create an interactive aquarium wallpaper for macOS. Fill the desktop with a ligh
 ```
 
 [原帖](https://x.com/chaseleantj/status/2100663203076128908) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=chaseleantj_aquarium_wallpaper) · [返回列表](#all-prompts)
+
+---
+
+### The Crownless
+<a id="izkimar-crownless"></a>
+
+[@Izkimar](https://x.com/Izkimar) · Izkimar · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/izkimar-crownless-readme.mp4"><img src="assets/previews/izkimar-crownless.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/izkimar-crownless-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/Izkimar/status/2100753871903855095">X 原帖</a></sub>
+
+_《无冕之王》是一款用 GPT-6 Astra 在 Spawn 中构建的动作 Roguelike：开始游戏、发现问题、告诉智能体并在同一局中修补 — 无需停下来重新部署。整个过程只花了一天多一点。_
+
+**提示词（英文原文）**
+
+```text
+Build an original action roguelike you can play in the browser (or a Spawn session). Keep the loop tight: start a run, fight, pick upgrades, die, repeat. Prefer editing the live game with GPT-6 Astra while you play — when something feels off or you get an idea, ask the agent to change it in-session instead of stopping to redeploy. Ship a playable build with clear feedback on hits, risk, and progression.
+```
+
+[原帖](https://x.com/Izkimar/status/2100753871903855095) · [试玩](https://www.spawn.co/@izkimar/the-crownless/play) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=izkimar_crownless) · [返回列表](#all-prompts)
 
 ---
 

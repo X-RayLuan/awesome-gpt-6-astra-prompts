@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**57 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**58 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -73,6 +73,7 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [PaperRoute](#builtbysketch-paperroute) · @builtbysketch · video
 - [Weeping Angels browser horror](#blendibyl-weeping-angels) · @BlendiByl · video
 - [Mac aquarium wallpaper](#chaseleantj-aquarium-wallpaper) · @chaseleantj · video
+- [The Crownless](#izkimar-crownless) · @Izkimar · video
 - [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
 - [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
@@ -761,6 +762,26 @@ Create an interactive aquarium wallpaper for macOS. Fill the desktop with a ligh
 ```
 
 [Original post](https://x.com/chaseleantj/status/2100663203076128908) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=chaseleantj_aquarium_wallpaper) · [Back to examples](#all-prompts)
+
+---
+
+### The Crownless
+<a id="izkimar-crownless"></a>
+
+[@Izkimar](https://x.com/Izkimar) · Izkimar · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/izkimar-crownless-readme.mp4"><img src="assets/previews/izkimar-crownless.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/izkimar-crownless-readme.mp4">▶ Play video</a> · <a href="https://x.com/Izkimar/status/2100753871903855095">Original on X</a></sub>
+
+_Action roguelike built in a little over a day with GPT-6 Astra inside Spawn: play, notice something off, tell the agent, and patch while still in the run — no stop-to-deploy loop._
+
+**Prompt**
+
+```text
+Build an original action roguelike you can play in the browser (or a Spawn session). Keep the loop tight: start a run, fight, pick upgrades, die, repeat. Prefer editing the live game with GPT-6 Astra while you play — when something feels off or you get an idea, ask the agent to change it in-session instead of stopping to redeploy. Ship a playable build with clear feedback on hits, risk, and progression.
+```
+
+[Original post](https://x.com/Izkimar/status/2100753871903855095) · [Play](https://www.spawn.co/@izkimar/the-crownless/play) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=izkimar_crownless) · [Back to examples](#all-prompts)
 
 ---
 
