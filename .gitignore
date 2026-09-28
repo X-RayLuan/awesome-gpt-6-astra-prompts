@@ -5,3 +5,6 @@ assets/videos/*
 .DS_Store
 node_modules/
 .env.local
+
+# Daily scrape proposals stay local (owner reviews before merge)
+proposals/

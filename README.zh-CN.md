@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**58 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**77 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -74,6 +74,25 @@
 - [Weeping Angels 浏览器恐怖](#blendibyl-weeping-angels) · @BlendiByl · video
 - [Mac 水族箱壁纸](#chaseleantj-aquarium-wallpaper) · @chaseleantj · video
 - [The Crownless](#izkimar-crownless) · @Izkimar · video
+- [带 AI 玩家的《卡坦岛》Three.js 游戏](#mengto-catan-threejs-game) · @MengTo · video
+- [Astra 设计迷你 DJ 控制器](#eminimnim-mini-dj-controller) · @eminimnim · video
+- [为即时战略游戏制作蝎形生物动画](#stefan-3d-ai-scorpid-animation) · @Stefan_3D_AI
+- [为扫描的破损表面制作 3D 打印补片](#toyoshi-3d-printed-surface-patch) · @toyoshi · video
+- [《奥德赛》复古 3D 浏览器游戏](#jasoncjs--odyssey-retro-3d-game) · @jasoncjs_ · video
+- [用 Astra 和 Tripo AI 制作 3D 版泡泡堂](#jaredliu-bravo-3d-bubble-hall) · @jaredliu_bravo
+- [用 Astra 反复打磨的 3D 场景](#m1astra-iteratively-refined-3d-scene) · @M1Astra · video
+- [颐和园佛香阁 3D 场景](#saccc-c-summer-palace-buddhist-incense-tower) · @Saccc_c · video
+- [《神经漫游者》海报风格字体与动态展示](#maxescu-neuromancer-inspired-font-showcase) · @maxescu · video
+- [现代版红警风格策略游戏](#hd-lhn783wtlkppr-modern-red-alert-strategy-game) · @HDLhN783wtLkpPR · video
+- [Three.js 互动模型铁路](#nickfromlater-interactive-model-railroad) · @nickfromlater · video
+- [Astra 创作巴赫风格赋格曲](#aug5thmusic-bach-style-fugue) · @aug5thmusic · video
+- [用九张照片制作可交互的工作室 3D 模型](#rpnickson-interactive-3d-studio) · @rpnickson · video
+- [Codex 脚本生成 After Effects 视频](#nyto-vd-codex-after-effects-video) · @Nyto_vd
+- [360°全景视频工坊](#kanaworks-ai-360-panorama-video-workshop) · @KanaWorks_AI
+- [《英雄无敌 3》墓园阵营画面重制](#ye-combinator-homm3-necropolis-remake) · @ye_combinator
+- [金属方块加工厂游戏原型](#chod3s-metal-cube-factory) · @chod3s
+- [GPT-6 Astra 与 DeepSeek V4.1 Flash 的 Three.js 游戏对比](#opendesignhq-threejs-game-comparison) · @OpenDesignHQ
+- [浏览器单人即时战略游戏](#mustafaakin-browser-rts-game) · @mustafaakin
 - [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
 - [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
@@ -896,6 +915,321 @@ Build an original action roguelike you can play in the browser (or a Spawn sessi
 ```
 
 [原帖](https://x.com/Izkimar/status/2100753871903855095) · [试玩](https://www.spawn.co/@izkimar/the-crownless/play) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=izkimar_crownless) · [返回列表](#all-prompts)
+
+---
+
+### 带 AI 玩家的《卡坦岛》Three.js 游戏
+<a id="mengto-catan-threejs-game"></a>
+
+[@MengTo](https://x.com/MengTo) · Meng To · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/mengto-catan-threejs-game-readme.mp4"><img src="assets/previews/mengto-catan-threejs-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/mengto-catan-threejs-game-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/MengTo/status/2097291240672993773">X 原帖</a></sub>
+
+_Meng To 表示，Astra 用 three.js 制作了一款受《卡坦岛》启发的游戏，包含动画、玩法说明、信息卡片、AI 玩家和交易功能。Astra 参考了他此前开始制作的另一款游戏，复用了界面、3D 模型、页面和声音等元素。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/MengTo/status/2097291240672993773) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=mengto_catan_threejs_game) · [返回列表](#all-prompts)
+
+---
+
+### Astra 设计迷你 DJ 控制器
+<a id="eminimnim-mini-dj-controller"></a>
+
+[@eminimnim](https://x.com/eminimnim) · nim · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/eminimnim-mini-dj-controller-readme.mp4"><img src="assets/previews/eminimnim-mini-dj-controller.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/eminimnim-mini-dj-controller-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/eminimnim/status/2098072497182666987">X 原帖</a></sub>
+
+_作者请 Astra 设计一款 Teenage Engineering 风格的迷你 DJ 控制器。据作者介绍，它生成了概念图、寻找零件、阅读中文数据手册、建立 CAD 模型、订购零件，并制作了展示组装过程的 Blender 动画。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/eminimnim/status/2098072497182666987) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=eminimnim_mini_dj_controller) · [返回列表](#all-prompts)
+
+---
+
+### 为即时战略游戏制作蝎形生物动画
+<a id="stefan-3d-ai-scorpid-animation"></a>
+
+[@Stefan_3D_AI](https://x.com/Stefan_3D_AI) · Stefan 3D AI · 社区演示 · GPT-6 Astra
+
+_作者使用 GPT-6 Astra，根据 Tripo P2.0 制作的模型和动作视频参考，为一只蝎形生物制作动画，再将其导入 Unity。作者称，制作五段可用于游戏的动画花了约一个半小时，又花一小时让它在游戏中运行。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/Stefan_3D_AI/status/2098387407565730203) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=stefan_3d_ai_scorpid_animation) · [返回列表](#all-prompts)
+
+---
+
+### 为扫描的破损表面制作 3D 打印补片
+<a id="toyoshi-3d-printed-surface-patch"></a>
+
+[@toyoshi](https://x.com/toyoshi) · とよし🍅株式会社トクイテン代表 · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/toyoshi-3d-printed-surface-patch-readme.mp4"><img src="assets/previews/toyoshi-3d-printed-surface-patch.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/toyoshi-3d-printed-surface-patch-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/toyoshi/status/2098690472193695756">X 原帖</a></sub>
+
+_作者用 iPhone 和 Scaniverse 扫描破损表面，再将 PLY 格式的点云数据交给 GPT-6 Astra，制作可 3D 打印的补片。作者表示，自己没有指出缺损位置，首次打印后还做了一些调整。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/toyoshi/status/2098690472193695756) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=toyoshi_3d_printed_surface_patch) · [返回列表](#all-prompts)
+
+---
+
+### 《奥德赛》复古 3D 浏览器游戏
+<a id="jasoncjs--odyssey-retro-3d-game"></a>
+
+[@jasoncjs_](https://x.com/jasoncjs_) · Jason Chew · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/jasoncjs--odyssey-retro-3d-game-readme.mp4"><img src="assets/previews/jasoncjs--odyssey-retro-3d-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/jasoncjs--odyssey-retro-3d-game-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/jasoncjs_/status/2099414001851449430">X 原帖</a></sub>
+
+_作者称，他们用一条提示词让 Astra 将荷马的《奥德赛》做成复古 3D 游戏。提示词要求制作以独眼巨人之岛为背景、可游玩的等距像素风浏览器体验。_
+
+**提示词** · 原文摘自[作者帖子](https://x.com/jasoncjs_/status/2099414001851449430)（保留原文，不翻译）
+
+```text
+Build an interactive browser experience based on Homer’s Odyssey - The Cyclops’ Island.
+
+Create a polished isometric pixel-art 3D diorama of a small Greek island surrounded by animated ocean. Include a sandy shore, dense forest, rocky cliffs, a large cave, Odysseus and his crew, the Cyclops, and their ship offshore.
+
+Make it feel like a small playable game:
+
+Control Odysseus with WASD or arrow keys
+Click the ground to walk
+Drag to pan the camera
+Scroll to zoom
+Add subtle water, tree, character, and environmental animation
+Add camera rotate, zoom, reset-view, and pause controls
+Use collision so the player cannot walk through rocks, trees, or water
+
+Add a dark literary UI panel in the bottom-left:
+
+“Lead Odysseus along the sandy path to the cave.”
+Show the current character and movement state below it.
+Art direction: detailed 1990s isometric strategy/RPG pixel art, muted Mediterranean colors, textured terrain, warm parchment typography, subtle grain, and premium game UI. It should look like an old illustrated map brought to life.
+Make the whole experience fill the browser window and work immediately. Do not make a mockup. Build the complete interactive experience.
+```
+
+[原帖](https://x.com/jasoncjs_/status/2099414001851449430) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=jasoncjs__odyssey_retro_3d_game) · [返回列表](#all-prompts)
+
+---
+
+### 用 Astra 和 Tripo AI 制作 3D 版泡泡堂
+<a id="jaredliu-bravo-3d-bubble-hall"></a>
+
+[@jaredliu_bravo](https://x.com/jaredliu_bravo) · Jared 宗源 · 社区演示 · GPT-6 Astra
+
+_作者使用 Astra 和 Tripo AI 一次生成了 3D 版《泡泡堂》。帖子附有提示词页面链接，但未包含提示词原文。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/jaredliu_bravo/status/2102300855387205871) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=jaredliu_bravo_3d_bubble_hall) · [返回列表](#all-prompts)
+
+---
+
+### 用 Astra 反复打磨的 3D 场景
+<a id="m1astra-iteratively-refined-3d-scene"></a>
+
+[@M1Astra](https://x.com/M1Astra) · M1 · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/m1astra-iteratively-refined-3d-scene-readme.mp4"><img src="assets/previews/m1astra-iteratively-refined-3d-scene.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/m1astra-iteratively-refined-3d-scene-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/M1Astra/status/2103152489772073421">X 原帖</a></sub>
+
+_作者通过反复提示 Astra、参考研究资料并持续改进，制作了一个细节丰富的 3D 场景。作者称使用了 Blender 和 Premiere，建模时使用无界面脚本，而非 MCP 或 CUA。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/M1Astra/status/2103152489772073421) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=m1astra_iteratively_refined_3d_scene) · [返回列表](#all-prompts)
+
+---
+
+### 颐和园佛香阁 3D 场景
+<a id="saccc-c-summer-palace-buddhist-incense-tower"></a>
+
+[@Saccc_c](https://x.com/Saccc_c) · Sac · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/saccc-c-summer-palace-buddhist-incense-tower-readme.mp4"><img src="assets/previews/saccc-c-summer-palace-buddhist-incense-tower.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/saccc-c-summer-palace-buddhist-incense-tower-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/Saccc_c/status/2097225315089256814">X 原帖</a></sub>
+
+_作者使用 GPT-6 Astra 和 Blender 制作了颐和园佛香阁的 3D 场景。据作者介绍，Astra 自行从网上收集真实照片，通过 Blender CLI 反复迭代，并在完成建模后制作了演示视频。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/Saccc_c/status/2097225315089256814) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=saccc_c_summer_palace_buddhist_incense_tower) · [返回列表](#all-prompts)
+
+---
+
+### 《神经漫游者》海报风格字体与动态展示
+<a id="maxescu-neuromancer-inspired-font-showcase"></a>
+
+[@maxescu](https://x.com/maxescu) · Alex Patrascu · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/maxescu-neuromancer-inspired-font-showcase-readme.mp4"><img src="assets/previews/maxescu-neuromancer-inspired-font-showcase.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/maxescu-neuromancer-inspired-font-showcase-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/maxescu/status/2097256565824774332">X 原帖</a></sub>
+
+_作者将一张《神经漫游者》海报交给 GPT-6 Astra，请它制作风格相近的字体，并使用 Higgsfield 插件制作动态展示。作者称，它在 13 分 19 秒内做出了可用的 Regular 和 Signal 两种字型。_
+
+**提示词** · 原文摘自[作者帖子](https://x.com/maxescu/status/2097256565824774332)（保留原文，不翻译）
+
+```text
+Create a full font similar to the one in the attached poster, and animate a showcase presentation for the font using the Higgsfield plugin
+```
+
+[原帖](https://x.com/maxescu/status/2097256565824774332) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=maxescu_neuromancer_inspired_font_showcase) · [返回列表](#all-prompts)
+
+---
+
+### 现代版红警风格策略游戏
+<a id="hd-lhn783wtlkppr-modern-red-alert-strategy-game"></a>
+
+[@HDLhN783wtLkpPR](https://x.com/HDLhN783wtLkpPR) · DuaDu · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/hd-lhn783wtlkppr-modern-red-alert-strategy-game-readme.mp4"><img src="assets/previews/hd-lhn783wtlkppr-modern-red-alert-strategy-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/hd-lhn783wtlkppr-modern-red-alert-strategy-game-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/HDLhN783wtLkpPR/status/2097321360641122393">X 原帖</a></sub>
+
+_作者表示用 GPT Astra 制作了一款可玩的策略游戏，包含基地建设、资源采集、造兵、进攻和对战。作者在回复中提供了游戏链接。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/HDLhN783wtLkpPR/status/2097321360641122393) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=hd_lhn783wtlkppr_modern_red_alert_strategy_game) · [返回列表](#all-prompts)
+
+---
+
+### Three.js 互动模型铁路
+<a id="nickfromlater-interactive-model-railroad"></a>
+
+[@nickfromlater](https://x.com/nickfromlater) · Probably Nick · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/nickfromlater-interactive-model-railroad-readme.mp4"><img src="assets/previews/nickfromlater-interactive-model-railroad.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/nickfromlater-interactive-model-railroad-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/nickfromlater/status/2097355845524726084">X 原帖</a></sub>
+
+_一个用 Astra 和 Three.js 构建的互动模型铁路，作者提供了试玩链接。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/nickfromlater/status/2097355845524726084) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=nickfromlater_interactive_model_railroad) · [返回列表](#all-prompts)
+
+---
+
+### Astra 创作巴赫风格赋格曲
+<a id="aug5thmusic-bach-style-fugue"></a>
+
+[@aug5thmusic](https://x.com/aug5thmusic) · Auggie · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/aug5thmusic-bach-style-fugue-readme.mp4"><img src="assets/previews/aug5thmusic-bach-style-fugue.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/aug5thmusic-bach-style-fugue-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/aug5thmusic/status/2097373938393456984">X 原帖</a></sub>
+
+_作者称，Astra 首次尝试就创作出一首完整的巴赫风格赋格曲。Astra 生成了 MIDI，作者将其导入 MuseScore，并选用 MuseSounds 的铜管乐器音色播放。_
+
+**提示词** · 原文摘自[作者回复](https://x.com/aug5thmusic/status/2097374596660101432)（保留原文，不翻译）
+
+```text
+In LilyPond (version 2.24), write a complete fugue for organ in the style of Bach.
+```
+
+[原帖](https://x.com/aug5thmusic/status/2097373938393456984) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=aug5thmusic_bach_style_fugue) · [返回列表](#all-prompts)
+
+---
+
+### 用九张照片制作可交互的工作室 3D 模型
+<a id="rpnickson-interactive-3d-studio"></a>
+
+[@rpnickson](https://x.com/rpnickson) · Roberto Nickson · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/rpnickson-interactive-3d-studio-readme.mp4"><img src="assets/previews/rpnickson-interactive-3d-studio.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/rpnickson-interactive-3d-studio-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/rpnickson/status/2097488440489116111">X 原帖</a></sub>
+
+_作者向 GPT-6 Astra 提供了九张工作室照片，生成了可交互的空间 3D 模型。他说 Astra 先在 Blender 中制作模型，再将其做成可在浏览器中探索的网站。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/rpnickson/status/2097488440489116111) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=rpnickson_interactive_3d_studio) · [返回列表](#all-prompts)
+
+---
+
+### Codex 脚本生成 After Effects 视频
+<a id="nyto-vd-codex-after-effects-video"></a>
+
+[@Nyto_vd](https://x.com/Nyto_vd) · トニー太田 · 社区演示 · GPT-6 Astra
+
+_作者使用 Codex（GPT-6 Astra）编写脚本，再在 After Effects 中运行，仅用 After Effects 的标准功能制作视频，没有借助外部 AI 视频生成工具。作者称视频在几分钟内完成。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/Nyto_vd/status/2097499735942893726) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=nyto_vd_codex_after_effects_video) · [返回列表](#all-prompts)
+
+---
+
+### 360°全景视频工坊
+<a id="kanaworks-ai-360-panorama-video-workshop"></a>
+
+[@KanaWorks_AI](https://x.com/KanaWorks_AI) · KANA｜東京AI映像 · 社区演示 · GPT-6 Astra
+
+_作者表示，GPT-6 Astra 制作了一个工坊，可将去除背景的角色视频放入 360° 全景图中，预览并调整画面，再导出带有 YouTube 360° 元数据的 MP4。全景图由 ChatGPT Images 2.5 制作，视频由 Dreamina 上的 Seedance 2.5 制作。_
+
+**提示词** · 原文摘自[作者帖子](https://x.com/KanaWorks_AI/status/2097518459596972066)（保留原文，不翻译）
+
+```text
+360°パノラマ画像とキャラクター動画をアップロードし、動画の背景を除去。キャラクターの位置やサイズをドラッグで調整しながらリアルタイムでプレビューでき、アニメーションのループ設定にも対応。最後に、YouTube 360°用のメタデータを付与したMP4をワンクリックで書き出せる“パノラマ動画工房”を作って。
+```
+
+[原帖](https://x.com/KanaWorks_AI/status/2097518459596972066) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=kanaworks_ai_360_panorama_video_workshop) · [返回列表](#all-prompts)
+
+---
+
+### 《英雄无敌 3》墓园阵营画面重制
+<a id="ye-combinator-homm3-necropolis-remake"></a>
+
+[@ye_combinator](https://x.com/ye_combinator) · Zihao Ye · 社区演示 · GPT-6 Astra
+
+_Zihao Ye 重制了《英雄无敌 3》墓园阵营的画面。据作者介绍，Meshy 为人形生物生成带纹理的 3D 模型和初始骨骼，GPT-6 Astra 则驱动 Blender 重建动画并渲染画面；生成的美术素材被打包为 VCMI 模组。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/ye_combinator/status/2097562847215845500) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=ye_combinator_homm3_necropolis_remake) · [返回列表](#all-prompts)
+
+---
+
+### 金属方块加工厂游戏原型
+<a id="chod3s-metal-cube-factory"></a>
+
+[@chod3s](https://x.com/chod3s) · gin0 · 社区演示 · GPT-6 Astra
+
+_这是一款工厂游戏原型，玩家通过布置机器，将金属方块加工成订单要求的零件。作者称，他们使用 Astra、Blender 和 Godot 制作了游戏，并用 Eleven Labs 制作音乐和音效；游戏还包含逐步介绍机器操作的可玩教程。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/chod3s/status/2097563137784385541) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=chod3s_metal_cube_factory) · [返回列表](#all-prompts)
+
+---
+
+### GPT-6 Astra 与 DeepSeek V4.1 Flash 的 Three.js 游戏对比
+<a id="opendesignhq-threejs-game-comparison"></a>
+
+[@OpenDesignHQ](https://x.com/OpenDesignHQ) · OpenDesign · 社区演示 · GPT-6 Astra
+
+_OpenDesign 分别使用 GPT-6 Astra 和 DeepSeek V4.1 Flash 制作了两款 Three.js 游戏，并分享出来供大家比较。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/OpenDesignHQ/status/2097635757917983223) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=opendesignhq_threejs_game_comparison) · [返回列表](#all-prompts)
+
+---
+
+### 浏览器单人即时战略游戏
+<a id="mustafaakin-browser-rts-game"></a>
+
+[@mustafaakin](https://x.com/mustafaakin) · Mustafa Akın · 社区演示 · GPT-6 Astra
+
+_Mustafa Akın 使用 ChatGPT Astra 和 Blender MCP 制作了一款浏览器单人即时战略游戏。据作者称，包括从零生成游戏素材在内，整个制作过程用了 40 条提示。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/mustafaakin/status/2097658461228069121) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=mustafaakin_browser_rts_game) · [返回列表](#all-prompts)
 
 ---
 

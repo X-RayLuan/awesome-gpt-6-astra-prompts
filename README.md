@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**58 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**77 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -74,6 +74,25 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Weeping Angels browser horror](#blendibyl-weeping-angels) · @BlendiByl · video
 - [Mac aquarium wallpaper](#chaseleantj-aquarium-wallpaper) · @chaseleantj · video
 - [The Crownless](#izkimar-crownless) · @Izkimar · video
+- [Catan-Inspired Three.js Game with AI Players](#mengto-catan-threejs-game) · @MengTo · video
+- [Astra Designs a Mini DJ Controller](#eminimnim-mini-dj-controller) · @eminimnim · video
+- [Animating a Scorpid for an RTS Game](#stefan-3d-ai-scorpid-animation) · @Stefan_3D_AI
+- [3D-Printed Patch for a Scanned Surface](#toyoshi-3d-printed-surface-patch) · @toyoshi · video
+- [The Odyssey as a Retro 3D Browser Game](#jasoncjs--odyssey-retro-3d-game) · @jasoncjs_ · video
+- [3D Bubble Hall with Astra and Tripo AI](#jaredliu-bravo-3d-bubble-hall) · @jaredliu_bravo
+- [Iteratively Refined 3D Scene with Astra](#m1astra-iteratively-refined-3d-scene) · @M1Astra · video
+- [Summer Palace’s Tower of Buddhist Incense in 3D](#saccc-c-summer-palace-buddhist-incense-tower) · @Saccc_c · video
+- [Neuromancer-Inspired Font and Animated Showcase](#maxescu-neuromancer-inspired-font-showcase) · @maxescu · video
+- [Modern Red Alert-Style Strategy Game](#hd-lhn783wtlkppr-modern-red-alert-strategy-game) · @HDLhN783wtLkpPR · video
+- [Interactive Model Railroad in Three.js](#nickfromlater-interactive-model-railroad) · @nickfromlater · video
+- [Astra Composes a Bach-Style Fugue](#aug5thmusic-bach-style-fugue) · @aug5thmusic · video
+- [Interactive 3D Studio from Nine Photos](#rpnickson-interactive-3d-studio) · @rpnickson · video
+- [Codex-Generated After Effects Video](#nyto-vd-codex-after-effects-video) · @Nyto_vd
+- [360° Panorama Video Workshop](#kanaworks-ai-360-panorama-video-workshop) · @KanaWorks_AI
+- [HoMM 3 Necropolis Graphics Remake](#ye-combinator-homm3-necropolis-remake) · @ye_combinator
+- [Metal Cube Factory Game Prototype](#chod3s-metal-cube-factory) · @chod3s
+- [Three.js Games: GPT-6 Astra vs DeepSeek V4.1 Flash](#opendesignhq-threejs-game-comparison) · @OpenDesignHQ
+- [Browser-Based Single-Player RTS Game](#mustafaakin-browser-rts-game) · @mustafaakin
 - [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
 - [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
@@ -782,6 +801,321 @@ Build an original action roguelike you can play in the browser (or a Spawn sessi
 ```
 
 [Original post](https://x.com/Izkimar/status/2100753871903855095) · [Play](https://www.spawn.co/@izkimar/the-crownless/play) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=izkimar_crownless) · [Back to examples](#all-prompts)
+
+---
+
+### Catan-Inspired Three.js Game with AI Players
+<a id="mengto-catan-threejs-game"></a>
+
+[@MengTo](https://x.com/MengTo) · Meng To · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/mengto-catan-threejs-game-readme.mp4"><img src="assets/previews/mengto-catan-threejs-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/mengto-catan-threejs-game-readme.mp4">▶ Play video</a> · <a href="https://x.com/MengTo/status/2097291240672993773">Original on X</a></sub>
+
+_Meng To says Astra built a Catan-inspired game in three.js with animations, instructions, info cards, AI players, and trading. Astra used another game he had started as a reference, reusing elements such as UI, 3D models, pages, and sounds._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/MengTo/status/2097291240672993773) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=mengto_catan_threejs_game) · [Back to examples](#all-prompts)
+
+---
+
+### Astra Designs a Mini DJ Controller
+<a id="eminimnim-mini-dj-controller"></a>
+
+[@eminimnim](https://x.com/eminimnim) · nim · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/eminimnim-mini-dj-controller-readme.mp4"><img src="assets/previews/eminimnim-mini-dj-controller.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/eminimnim-mini-dj-controller-readme.mp4">▶ Play video</a> · <a href="https://x.com/eminimnim/status/2098072497182666987">Original on X</a></sub>
+
+_The author asked Astra for a Teenage Engineering-style mini DJ controller. According to the author, it generated a concept image, sourced parts, read Chinese datasheets, built a CAD model, ordered the parts, and made a Blender assembly animation._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/eminimnim/status/2098072497182666987) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=eminimnim_mini_dj_controller) · [Back to examples](#all-prompts)
+
+---
+
+### Animating a Scorpid for an RTS Game
+<a id="stefan-3d-ai-scorpid-animation"></a>
+
+[@Stefan_3D_AI](https://x.com/Stefan_3D_AI) · Stefan 3D AI · community demo · GPT-6 Astra
+
+_The author used GPT-6 Astra to animate a Scorpid from a Tripo P2.0 model and video movement references, then brought it into Unity. The author reports making five game-ready animations in about an hour and a half, with another hour to get the creature running in-game._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/Stefan_3D_AI/status/2098387407565730203) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=stefan_3d_ai_scorpid_animation) · [Back to examples](#all-prompts)
+
+---
+
+### 3D-Printed Patch for a Scanned Surface
+<a id="toyoshi-3d-printed-surface-patch"></a>
+
+[@toyoshi](https://x.com/toyoshi) · とよし🍅株式会社トクイテン代表 · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/toyoshi-3d-printed-surface-patch-readme.mp4"><img src="assets/previews/toyoshi-3d-printed-surface-patch.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/toyoshi-3d-printed-surface-patch-readme.mp4">▶ Play video</a> · <a href="https://x.com/toyoshi/status/2098690472193695756">Original on X</a></sub>
+
+_The author scanned a damaged surface with an iPhone using Scaniverse, then gave GPT-6 Astra the PLY point-cloud data to make a 3D-printable patch. The author says they did not point out where the surface was missing and made some adjustments after the first print._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/toyoshi/status/2098690472193695756) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=toyoshi_3d_printed_surface_patch) · [Back to examples](#all-prompts)
+
+---
+
+### The Odyssey as a Retro 3D Browser Game
+<a id="jasoncjs--odyssey-retro-3d-game"></a>
+
+[@jasoncjs_](https://x.com/jasoncjs_) · Jason Chew · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/jasoncjs--odyssey-retro-3d-game-readme.mp4"><img src="assets/previews/jasoncjs--odyssey-retro-3d-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/jasoncjs--odyssey-retro-3d-game-readme.mp4">▶ Play video</a> · <a href="https://x.com/jasoncjs_/status/2099414001851449430">Original on X</a></sub>
+
+_The author says they gave Astra one prompt to turn Homer’s Odyssey into a retro 3D game. The prompt calls for a playable, isometric pixel-art browser experience set on the Cyclops’ island._
+
+**Prompt** · verbatim from the [author’s post](https://x.com/jasoncjs_/status/2099414001851449430)
+
+```text
+Build an interactive browser experience based on Homer’s Odyssey - The Cyclops’ Island.
+
+Create a polished isometric pixel-art 3D diorama of a small Greek island surrounded by animated ocean. Include a sandy shore, dense forest, rocky cliffs, a large cave, Odysseus and his crew, the Cyclops, and their ship offshore.
+
+Make it feel like a small playable game:
+
+Control Odysseus with WASD or arrow keys
+Click the ground to walk
+Drag to pan the camera
+Scroll to zoom
+Add subtle water, tree, character, and environmental animation
+Add camera rotate, zoom, reset-view, and pause controls
+Use collision so the player cannot walk through rocks, trees, or water
+
+Add a dark literary UI panel in the bottom-left:
+
+“Lead Odysseus along the sandy path to the cave.”
+Show the current character and movement state below it.
+Art direction: detailed 1990s isometric strategy/RPG pixel art, muted Mediterranean colors, textured terrain, warm parchment typography, subtle grain, and premium game UI. It should look like an old illustrated map brought to life.
+Make the whole experience fill the browser window and work immediately. Do not make a mockup. Build the complete interactive experience.
+```
+
+[Original post](https://x.com/jasoncjs_/status/2099414001851449430) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=jasoncjs__odyssey_retro_3d_game) · [Back to examples](#all-prompts)
+
+---
+
+### 3D Bubble Hall with Astra and Tripo AI
+<a id="jaredliu-bravo-3d-bubble-hall"></a>
+
+[@jaredliu_bravo](https://x.com/jaredliu_bravo) · Jared 宗源 · community demo · GPT-6 Astra
+
+_The author made a 3D version of 泡泡堂 in one shot using Astra and Tripo AI. The post links to a prompt page, but does not include the prompt text._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/jaredliu_bravo/status/2102300855387205871) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=jaredliu_bravo_3d_bubble_hall) · [Back to examples](#all-prompts)
+
+---
+
+### Iteratively Refined 3D Scene with Astra
+<a id="m1astra-iteratively-refined-3d-scene"></a>
+
+[@M1Astra](https://x.com/M1Astra) · M1 · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/m1astra-iteratively-refined-3d-scene-readme.mp4"><img src="assets/previews/m1astra-iteratively-refined-3d-scene.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/m1astra-iteratively-refined-3d-scene-readme.mp4">▶ Play video</a> · <a href="https://x.com/M1Astra/status/2103152489772073421">Original on X</a></sub>
+
+_The author created a detailed 3D scene by repeatedly prompting Astra and refining the result with research and references. They report using Blender and Premiere, with headless scripts for modeling rather than MCP or CUA._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/M1Astra/status/2103152489772073421) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=m1astra_iteratively_refined_3d_scene) · [Back to examples](#all-prompts)
+
+---
+
+### Summer Palace’s Tower of Buddhist Incense in 3D
+<a id="saccc-c-summer-palace-buddhist-incense-tower"></a>
+
+[@Saccc_c](https://x.com/Saccc_c) · Sac · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/saccc-c-summer-palace-buddhist-incense-tower-readme.mp4"><img src="assets/previews/saccc-c-summer-palace-buddhist-incense-tower.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/saccc-c-summer-palace-buddhist-incense-tower-readme.mp4">▶ Play video</a> · <a href="https://x.com/Saccc_c/status/2097225315089256814">Original on X</a></sub>
+
+_The author used GPT-6 Astra and Blender to create a 3D scene of the Tower of Buddhist Incense at the Summer Palace. According to the author, Astra gathered real photos online, iterated using the Blender CLI, and made the demo video after modeling._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/Saccc_c/status/2097225315089256814) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=saccc_c_summer_palace_buddhist_incense_tower) · [Back to examples](#all-prompts)
+
+---
+
+### Neuromancer-Inspired Font and Animated Showcase
+<a id="maxescu-neuromancer-inspired-font-showcase"></a>
+
+[@maxescu](https://x.com/maxescu) · Alex Patrascu · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/maxescu-neuromancer-inspired-font-showcase-readme.mp4"><img src="assets/previews/maxescu-neuromancer-inspired-font-showcase.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/maxescu-neuromancer-inspired-font-showcase-readme.mp4">▶ Play video</a> · <a href="https://x.com/maxescu/status/2097256565824774332">Original on X</a></sub>
+
+_The author gave GPT-6 Astra a Neuromancer poster and asked it to create a similar font and animate a showcase using the Higgsfield plugin. The author reports that it produced usable Regular and Signal variants in 13m 19s._
+
+**Prompt** · verbatim from the [author’s post](https://x.com/maxescu/status/2097256565824774332)
+
+```text
+Create a full font similar to the one in the attached poster, and animate a showcase presentation for the font using the Higgsfield plugin
+```
+
+[Original post](https://x.com/maxescu/status/2097256565824774332) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=maxescu_neuromancer_inspired_font_showcase) · [Back to examples](#all-prompts)
+
+---
+
+### Modern Red Alert-Style Strategy Game
+<a id="hd-lhn783wtlkppr-modern-red-alert-strategy-game"></a>
+
+[@HDLhN783wtLkpPR](https://x.com/HDLhN783wtLkpPR) · DuaDu · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/hd-lhn783wtlkppr-modern-red-alert-strategy-game-readme.mp4"><img src="assets/previews/hd-lhn783wtlkppr-modern-red-alert-strategy-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/hd-lhn783wtlkppr-modern-red-alert-strategy-game-readme.mp4">▶ Play video</a> · <a href="https://x.com/HDLhN783wtLkpPR/status/2097321360641122393">Original on X</a></sub>
+
+_The author says they used GPT Astra to make a playable strategy game with base building, resource gathering, unit production, attacks, and battles. An author reply links to the game._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/HDLhN783wtLkpPR/status/2097321360641122393) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=hd_lhn783wtlkppr_modern_red_alert_strategy_game) · [Back to examples](#all-prompts)
+
+---
+
+### Interactive Model Railroad in Three.js
+<a id="nickfromlater-interactive-model-railroad"></a>
+
+[@nickfromlater](https://x.com/nickfromlater) · Probably Nick · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/nickfromlater-interactive-model-railroad-readme.mp4"><img src="assets/previews/nickfromlater-interactive-model-railroad.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/nickfromlater-interactive-model-railroad-readme.mp4">▶ Play video</a> · <a href="https://x.com/nickfromlater/status/2097355845524726084">Original on X</a></sub>
+
+_An interactive model railroad built with Astra and Three.js, with a link to play with it._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/nickfromlater/status/2097355845524726084) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=nickfromlater_interactive_model_railroad) · [Back to examples](#all-prompts)
+
+---
+
+### Astra Composes a Bach-Style Fugue
+<a id="aug5thmusic-bach-style-fugue"></a>
+
+[@aug5thmusic](https://x.com/aug5thmusic) · Auggie · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/aug5thmusic-bach-style-fugue-readme.mp4"><img src="assets/previews/aug5thmusic-bach-style-fugue.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/aug5thmusic-bach-style-fugue-readme.mp4">▶ Play video</a> · <a href="https://x.com/aug5thmusic/status/2097373938393456984">Original on X</a></sub>
+
+_The author reports that Astra composed a complete Bach-style fugue on the first attempt. Astra made the MIDI, which the author opened in MuseScore and played using brass MuseSounds instruments._
+
+**Prompt** · verbatim from the [author’s reply](https://x.com/aug5thmusic/status/2097374596660101432)
+
+```text
+In LilyPond (version 2.24), write a complete fugue for organ in the style of Bach.
+```
+
+[Original post](https://x.com/aug5thmusic/status/2097373938393456984) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=aug5thmusic_bach_style_fugue) · [Back to examples](#all-prompts)
+
+---
+
+### Interactive 3D Studio from Nine Photos
+<a id="rpnickson-interactive-3d-studio"></a>
+
+[@rpnickson](https://x.com/rpnickson) · Roberto Nickson · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/rpnickson-interactive-3d-studio-readme.mp4"><img src="assets/previews/rpnickson-interactive-3d-studio.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/rpnickson-interactive-3d-studio-readme.mp4">▶ Play video</a> · <a href="https://x.com/rpnickson/status/2097488440489116111">Original on X</a></sub>
+
+_The author fed GPT-6 Astra nine photos of his studio, and it created an interactive 3D model of the space. He says Astra made the model in Blender, then turned it into a website visitors can explore in a browser._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/rpnickson/status/2097488440489116111) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=rpnickson_interactive_3d_studio) · [Back to examples](#all-prompts)
+
+---
+
+### Codex-Generated After Effects Video
+<a id="nyto-vd-codex-after-effects-video"></a>
+
+[@Nyto_vd](https://x.com/Nyto_vd) · トニー太田 · community demo · GPT-6 Astra
+
+_The author used Codex (GPT-6 Astra) to write a script that was then run in After Effects to create a video using only After Effects’ standard features, without external AI video generation. The author reports that it was completed in a few minutes._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/Nyto_vd/status/2097499735942893726) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=nyto_vd_codex_after_effects_video) · [Back to examples](#all-prompts)
+
+---
+
+### 360° Panorama Video Workshop
+<a id="kanaworks-ai-360-panorama-video-workshop"></a>
+
+[@KanaWorks_AI](https://x.com/KanaWorks_AI) · KANA｜東京AI映像 · community demo · GPT-6 Astra
+
+_The author says GPT-6 Astra built a workshop for placing a background-removed character video in a 360° panorama, previewing and adjusting it, and exporting an MP4 with YouTube 360° metadata. The panorama was made with ChatGPT Images 2.5 and the video with Seedance 2.5 on Dreamina._
+
+**Prompt** · verbatim from the [author’s post](https://x.com/KanaWorks_AI/status/2097518459596972066) · original in Japanese
+
+```text
+360°パノラマ画像とキャラクター動画をアップロードし、動画の背景を除去。キャラクターの位置やサイズをドラッグで調整しながらリアルタイムでプレビューでき、アニメーションのループ設定にも対応。最後に、YouTube 360°用のメタデータを付与したMP4をワンクリックで書き出せる“パノラマ動画工房”を作って。
+```
+
+[Original post](https://x.com/KanaWorks_AI/status/2097518459596972066) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=kanaworks_ai_360_panorama_video_workshop) · [Back to examples](#all-prompts)
+
+---
+
+### HoMM 3 Necropolis Graphics Remake
+<a id="ye-combinator-homm3-necropolis-remake"></a>
+
+[@ye_combinator](https://x.com/ye_combinator) · Zihao Ye · community demo · GPT-6 Astra
+
+_Zihao Ye remade the Necropolis graphics for Heroes of Might and Magic III. Per the author, Meshy generated textured 3D models and starter rigs for humanoid creatures, while GPT-6 Astra drove Blender to rebuild animations and render the artwork, which was packaged as VCMI mods._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/ye_combinator/status/2097562847215845500) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=ye_combinator_homm3_necropolis_remake) · [Back to examples](#all-prompts)
+
+---
+
+### Metal Cube Factory Game Prototype
+<a id="chod3s-metal-cube-factory"></a>
+
+[@chod3s](https://x.com/chod3s) · gin0 · community demo · GPT-6 Astra
+
+_A factory game prototype where players arrange machines to turn metal cubes into ordered parts. The author says they made it with Astra using Blender and Godot, with music and sounds from Eleven Labs; it includes a playable tutorial that gradually introduces the machines._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/chod3s/status/2097563137784385541) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=chod3s_metal_cube_factory) · [Back to examples](#all-prompts)
+
+---
+
+### Three.js Games: GPT-6 Astra vs DeepSeek V4.1 Flash
+<a id="opendesignhq-threejs-game-comparison"></a>
+
+[@OpenDesignHQ](https://x.com/OpenDesignHQ) · OpenDesign · community demo · GPT-6 Astra
+
+_OpenDesign built two Three.js games, one with GPT-6 Astra and one with DeepSeek V4.1 Flash, and shared them for comparison._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/OpenDesignHQ/status/2097635757917983223) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=opendesignhq_threejs_game_comparison) · [Back to examples](#all-prompts)
+
+---
+
+### Browser-Based Single-Player RTS Game
+<a id="mustafaakin-browser-rts-game"></a>
+
+[@mustafaakin](https://x.com/mustafaakin) · Mustafa Akın · community demo · GPT-6 Astra
+
+_Mustafa Akın built a browser-based, single-player RTS game using ChatGPT Astra and Blender MCP. The author reports completing it in 40 prompts, including generating the assets from scratch._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/mustafaakin/status/2097658461228069121) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=mustafaakin_browser_rts_game) · [Back to examples](#all-prompts)
 
 ---
 
