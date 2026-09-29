@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**77 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**78 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -104,6 +104,7 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Tidal House](#openai-showcase-tidal-house) · GPT-6 Astra
 - [Type Field](#openai-showcase-type-field) · GPT-6 Astra
 - [EasyVeo decode → stills → remake](#easyveo-remake-loop)
+- [Bengaluru ORR Racing Game](#ravithejads-bengaluru-orr-racing-game) · @ravithejads · video
 **OpenAI Showcase**
 - [Little Ritual](#openai-showcase-little-ritual) · GPT-6 Astra · video
 - [Velocity Loop](#openai-showcase-velocity-loop) · GPT-6 Astra · video
@@ -1119,6 +1120,22 @@ _Mustafa Akın built a browser-based, single-player RTS game using ChatGPT Astra
 
 ---
 
+### Bengaluru ORR Racing Game
+<a id="ravithejads-bengaluru-orr-racing-game"></a>
+
+[@ravithejads](https://x.com/ravithejads) · Ravi Theja · community demo · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/ravithejads-bengaluru-orr-racing-game-readme.mp4"><img src="assets/previews/ravithejads-bengaluru-orr-racing-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/ravithejads-bengaluru-orr-racing-game-readme.mp4">▶ Play video</a> · <a href="https://x.com/ravithejads/status/2097181044625887392">Original on X</a></sub>
+
+_Ravi Theja built a racing game with GPT-6 Astra set on Bengaluru’s Outer Ring Road, from Bellandur to Marathahalli. It features traffic, potholes, delivery riders, metro construction, and a Road Rash-inspired mechanic for swinging a rod at nearby vehicles._
+
+**Prompt** · _not shared by the author._
+
+[Original post](https://x.com/ravithejads/status/2097181044625887392) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=ravithejads_bengaluru_orr_racing_game) · [Back to examples](#all-prompts)
+
+---
+
 ### Hollowflux
 <a id="openai-showcase-hollowflux"></a>
 
@@ -1549,6 +1566,7 @@ Build a browser-based stop-motion studio with original 3D characters and props. 
 [Showcase page](https://developers.openai.com/showcase/stop-motion-desk) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_stop-motion-desk) · [Back to examples](#all-prompts)
 
 ---
+
 
 
 ## Related indexes

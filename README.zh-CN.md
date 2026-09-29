@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**77 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**78 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -104,6 +104,7 @@
 - [Tidal House](#openai-showcase-tidal-house) · GPT-6 Astra
 - [Type Field](#openai-showcase-type-field) · GPT-6 Astra
 - [EasyVeo：拆解 → 分镜静帧 → 复刻](#easyveo-remake-loop)
+- [班加罗尔外环路赛车游戏](#ravithejads-bengaluru-orr-racing-game) · @ravithejads · video
 **OpenAI Showcase**
 - [小小仪式](#openai-showcase-little-ritual) · GPT-6 Astra · video
 - [速度回路](#openai-showcase-velocity-loop) · GPT-6 Astra · video
@@ -1233,6 +1234,22 @@ _Mustafa Akın 使用 ChatGPT Astra 和 Blender MCP 制作了一款浏览器单�
 
 ---
 
+### 班加罗尔外环路赛车游戏
+<a id="ravithejads-bengaluru-orr-racing-game"></a>
+
+[@ravithejads](https://x.com/ravithejads) · Ravi Theja · 社区演示 · GPT-6 Astra
+
+<a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/ravithejads-bengaluru-orr-racing-game-readme.mp4"><img src="assets/previews/ravithejads-bengaluru-orr-racing-game.webp" width="640" loading="lazy" alt="Play video"></a><br>
+<sub><a href="https://cdn.jsdelivr.net/gh/X-RayLuan/awesome-gpt-6-astra-prompts@main/assets/videos/ravithejads-bengaluru-orr-racing-game-readme.mp4">▶ 播放视频</a> · <a href="https://x.com/ravithejads/status/2097181044625887392">X 原帖</a></sub>
+
+_Ravi Theja 使用 GPT-6 Astra 制作了一款赛车游戏，场景是班加罗尔外环路从 Bellandur 到 Marathahalli 的路段。游戏包含拥堵的车流、坑洼路面、外卖骑手、地铁施工，以及受《Road Rash》启发、可向附近车辆挥杆的玩法。_
+
+**提示词** · _作者未公开。_
+
+[原帖](https://x.com/ravithejads/status/2097181044625887392) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=ravithejads_bengaluru_orr_racing_game) · [返回示例](#all-prompts)
+
+---
+
 ### Hollowflux
 <a id="openai-showcase-hollowflux"></a>
 
@@ -1707,6 +1724,7 @@ Build a browser-based stop-motion studio with original 3D characters and props. 
 [Showcase 页面](https://developers.openai.com/showcase/stop-motion-desk) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_stop-motion-desk) · [返回列表](#all-prompts)
 
 ---
+
 
 
 ## 相关索引
