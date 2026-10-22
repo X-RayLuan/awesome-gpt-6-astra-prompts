@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**78 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**82 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -116,6 +116,10 @@
 - [物理博物馆](#openai-showcase-physics-museum) · GPT-6 Astra
 - [建筑工作室](#openai-showcase-architecture-studio) · GPT-6 Astra
 - [定格动画工作台](#openai-showcase-stop-motion-desk) · GPT-6 Astra · video
+- [Facet](#openai-showcase-facet) · GPT-6 Astra
+- [Folio](#openai-showcase-folio) · GPT-6 Astra
+- [Loupe](#openai-showcase-loupe) · GPT-6 Astra
+- [Lumen](#openai-showcase-lumen) · GPT-6 Astra
 
 </details>
 
@@ -1726,6 +1730,70 @@ Build a browser-based stop-motion studio with original 3D characters and props. 
 ---
 
 
+
+### Facet
+<a id="openai-showcase-facet"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/facet) · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/facet"><img src="assets/featured/openai-showcase-facet.webp" width="640" loading="lazy" alt="Facet"></a><br>
+<sub><a href="https://developers.openai.com/showcase/facet">打开 Showcase</a></sub>
+
+_通过提问、图表与计算结果来探索 CSV 数据。_
+
+**提示词** · _作者未公开。_
+
+[Showcase 页面](https://developers.openai.com/showcase/facet) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_facet) · [返回列表](#all-prompts)
+
+---
+
+### Folio
+<a id="openai-showcase-folio"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/folio) · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/folio"><img src="assets/featured/openai-showcase-folio.webp" width="640" loading="lazy" alt="Folio"></a><br>
+<sub><a href="https://developers.openai.com/showcase/folio">打开 Showcase</a></sub>
+
+_把图片和简报变成可以持续打磨的演示文稿。_
+
+**提示词** · _作者未公开。_
+
+[Showcase 页面](https://developers.openai.com/showcase/folio) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_folio) · [返回列表](#all-prompts)
+
+---
+
+### Loupe
+<a id="openai-showcase-loupe"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/loupe) · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/loupe"><img src="assets/featured/openai-showcase-loupe.webp" width="640" loading="lazy" alt="Loupe"></a><br>
+<sub><a href="https://developers.openai.com/showcase/loupe">打开 Showcase</a></sub>
+
+_将实现与参考设计进行对比，并修复源码。_
+
+**提示词** · _作者未公开。_
+
+[Showcase 页面](https://developers.openai.com/showcase/loupe) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_loupe) · [返回列表](#all-prompts)
+
+---
+
+### Lumen
+<a id="openai-showcase-lumen"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/lumen) · 官方演示 · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/lumen"><img src="assets/featured/openai-showcase-lumen.webp" width="640" loading="lazy" alt="Lumen"></a><br>
+<sub><a href="https://developers.openai.com/showcase/lumen">打开 Showcase</a></sub>
+
+_发现可访问性（无障碍）问题、应用选定的修复，并对比修复前后的结果。_
+
+**提示词** · _作者未公开。_
+
+[Showcase 页面](https://developers.openai.com/showcase/lumen) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_lumen) · [返回列表](#all-prompts)
+
+---
 
 ## 相关索引
 

@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**78 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**82 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -116,6 +116,10 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Physics museum](#openai-showcase-physics-museum) · GPT-6 Astra
 - [Architecture Studio](#openai-showcase-architecture-studio) · GPT-6 Astra
 - [Stop-Motion Desk](#openai-showcase-stop-motion-desk) · GPT-6 Astra · video
+- [Facet](#openai-showcase-facet) · GPT-6 Astra
+- [Folio](#openai-showcase-folio) · GPT-6 Astra
+- [Loupe](#openai-showcase-loupe) · GPT-6 Astra
+- [Lumen](#openai-showcase-lumen) · GPT-6 Astra
 - [Hollowflux](#openai-showcase-hollowflux) · GPT-6 Astra
 - [Sunwake](#openai-showcase-sunwake) · GPT-6 Astra
 - [Void Explorer](#openai-showcase-void-explorer) · GPT-6 Astra
@@ -1568,6 +1572,70 @@ Build a browser-based stop-motion studio with original 3D characters and props. 
 ---
 
 
+
+### Facet
+<a id="openai-showcase-facet"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/facet) · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/facet"><img src="assets/featured/openai-showcase-facet.webp" width="640" loading="lazy" alt="Facet"></a><br>
+<sub><a href="https://developers.openai.com/showcase/facet">Open showcase</a></sub>
+
+_Explore a CSV through questions, charts, and computed answers._
+
+**Prompt** · _not shared by the author._
+
+[Showcase page](https://developers.openai.com/showcase/facet) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_facet) · [Back to examples](#all-prompts)
+
+---
+
+### Folio
+<a id="openai-showcase-folio"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/folio) · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/folio"><img src="assets/featured/openai-showcase-folio.webp" width="640" loading="lazy" alt="Folio"></a><br>
+<sub><a href="https://developers.openai.com/showcase/folio">Open showcase</a></sub>
+
+_Turn images and a brief into a presentation you can keep refining._
+
+**Prompt** · _not shared by the author._
+
+[Showcase page](https://developers.openai.com/showcase/folio) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_folio) · [Back to examples](#all-prompts)
+
+---
+
+### Loupe
+<a id="openai-showcase-loupe"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/loupe) · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/loupe"><img src="assets/featured/openai-showcase-loupe.webp" width="640" loading="lazy" alt="Loupe"></a><br>
+<sub><a href="https://developers.openai.com/showcase/loupe">Open showcase</a></sub>
+
+_Compare an implementation with a reference design and fix the source._
+
+**Prompt** · _not shared by the author._
+
+[Showcase page](https://developers.openai.com/showcase/loupe) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_loupe) · [Back to examples](#all-prompts)
+
+---
+
+### Lumen
+<a id="openai-showcase-lumen"></a>
+
+[OpenAI Showcase](https://developers.openai.com/showcase/lumen) · official demo · GPT-6 Astra
+
+<a href="https://developers.openai.com/showcase/lumen"><img src="assets/featured/openai-showcase-lumen.webp" width="640" loading="lazy" alt="Lumen"></a><br>
+<sub><a href="https://developers.openai.com/showcase/lumen">Open showcase</a></sub>
+
+_Find accessibility issues, apply selected fixes, and compare results._
+
+**Prompt** · _not shared by the author._
+
+[Showcase page](https://developers.openai.com/showcase/lumen) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=openai_showcase_lumen) · [Back to examples](#all-prompts)
+
+---
 
 ## Related indexes
 
