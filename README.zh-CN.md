@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**82 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**83 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -37,6 +37,7 @@
 <details>
 <summary>浏览全部案例</summary>
 
+- [ORBIT · 太空探索俱乐部](#kirillnegro-orbit-exploration-club) · @kirillnegro
 - [Alex 与墨雨风暴](#alex-and-the-inkstorm) · video
 - [光轮对战 → 可玩原型](#tron-lightcycle-to-playable) · video
 - [可玩四维象棋](#miki-4d-chess) · @miki_code
@@ -122,6 +123,19 @@
 - [Lumen](#openai-showcase-lumen) · GPT-6 Astra
 
 </details>
+
+---
+
+### ORBIT · 太空探索俱乐部
+<a id="kirillnegro-orbit-exploration-club"></a>
+
+[@kirillnegro](https://github.com/kirillnegro) · 作者 GitHub 演示 · 作者仓库说明提及 GPT-6 Astra
+
+ORBIT 是一个浏览器端太空探索俱乐部，包含交互式太阳系图鉴、火星着陆小游戏、可自定义飞船以及黑洞可视化。作者仓库称其为“gpt-6 astra only”；README 介绍了各个页面，但未公开原始构建提示词。请勿将其误称为 Astra 直接生成的视频。
+
+**提示词** · _作者未公开。_
+
+[作者原仓库](https://github.com/kirillnegro/burmalboss) · [试用 EasyVeo AI 广告生成器](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=kirillnegro_orbit_exploration_club) · [返回列表](#all-prompts)
 
 ---
 

@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**82 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**83 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -37,6 +37,7 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 <details>
 <summary>Browse examples</summary>
 
+- [ORBIT · Exploration Club](#kirillnegro-orbit-exploration-club) · @kirillnegro
 - [Alex and the Inkstorm](#alex-and-the-inkstorm) · video
 - [Tron lightcycle → playable](#tron-lightcycle-to-playable) · video
 - [Playable 4D chess](#miki-4d-chess) · @miki_code
@@ -132,6 +133,19 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Type Field](#openai-showcase-type-field) · GPT-6 Astra
 
 </details>
+
+---
+
+### ORBIT · Exploration Club
+<a id="kirillnegro-orbit-exploration-club"></a>
+
+[@kirillnegro](https://github.com/kirillnegro) · creator GitHub demo · GPT-6 Astra attribution in creator repository description
+
+ORBIT is a browser-based space-exploration club with an interactive solar atlas, Mars landing game, customizable spacecraft, and a black-hole visualization. The creator repository describes it as “gpt-6 astra only”; the README documents the working pages but does not share the original build prompt. Do not imply Astra generated standalone video footage.
+
+**Prompt** · _not shared by the author._
+
+[Original creator repository](https://github.com/kirillnegro/burmalboss) · [Try EasyVeo's AI Ad Generator](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=kirillnegro_orbit_exploration_club) · [Back to examples](#all-prompts)
 
 ---
 
