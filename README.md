@@ -13,7 +13,7 @@
 
 Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) (article + comments) plus EasyVeo remake prompts.
 
-**83 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
+**84 examples · EN + ZH · EasyVeo remake lane · CTA: [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=lede)**
 
 ## Featured projects
 
@@ -37,6 +37,7 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 <details>
 <summary>Browse examples</summary>
 
+- [Clockwork Courier — Unity mechanical action-exploration game](#ffffrrrr-cmyk-clockwork-courier) · @ffffrrrr-cmyk
 - [ORBIT · Exploration Club](#kirillnegro-orbit-exploration-club) · @kirillnegro
 - [Alex and the Inkstorm](#alex-and-the-inkstorm) · video
 - [Tron lightcycle → playable](#tron-lightcycle-to-playable) · video
@@ -133,6 +134,19 @@ Explore GPT-6 Astra community demos scraped from [@OpenAIDevs](https://x.com/Ope
 - [Type Field](#openai-showcase-type-field) · GPT-6 Astra
 
 </details>
+
+---
+
+### Clockwork Courier — Unity mechanical action-exploration game
+<a id="ffffrrrr-cmyk-clockwork-courier"></a>
+
+[@ffffrrrr-cmyk](https://github.com/ffffrrrr-cmyk) · community GitHub demo · GPT-6 Astra (creator's project provenance claim)
+
+_The creator published a Unity 2.5D mechanical action-exploration game with a playable Windows build, code-generated mechanical art, checkpoint and save systems, and three screenshots captured from the game player. The project provenance names gpt-6-astra as the model; the provider snapshot and subscription verification remain pending according to the creator. The repository's own validation report says keyboard playthrough, visual quality, and performance still require human testing. No claims of independently verified gameplay or performance are made here._
+
+**Prompt** · _shared verbatim in Chinese by the creator, not translated or reprinted here_: [original task text](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier/blob/main/Provenance/task-original.txt). The task begins with a request to build a complete, reproducible Unity game; this is a project specification, not a short one-shot prompt.
+
+[Original creator repository](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier) · [Original task/prompt](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier/blob/main/Provenance/task-original.txt) · [Creator's model provenance](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier/blob/main/Provenance/production-start.json) · [Creator's verification caveats](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier/blob/main/Validation/verification-report.md) · [Remake with EasyVeo](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=ffffrrrr_cmyk_clockwork_courier) · [Back to examples](#all-prompts)
 
 ---
 

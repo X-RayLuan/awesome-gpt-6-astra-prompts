@@ -13,7 +13,7 @@
 
 精选整理自 [@OpenAIDevs](https://x.com/OpenAIDevs/status/2098827327832822014) （长文嵌入 + 评论区）的 GPT-6 Astra 社区演示，以及 EasyVeo 复刻提示词。
 
-**83 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
+**84 个案例 · 中英双语文档 · EasyVeo 复刻车道 · CTA： [easyveo.com](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=zh_lede)**
 
 ## 精选项目
 
@@ -37,6 +37,7 @@
 <details>
 <summary>浏览全部案例</summary>
 
+- [Clockwork Courier — Unity 机械动作探索游戏](#ffffrrrr-cmyk-clockwork-courier) · @ffffrrrr-cmyk
 - [ORBIT · 太空探索俱乐部](#kirillnegro-orbit-exploration-club) · @kirillnegro
 - [Alex 与墨雨风暴](#alex-and-the-inkstorm) · video
 - [光轮对战 → 可玩原型](#tron-lightcycle-to-playable) · video
@@ -123,6 +124,19 @@
 - [Lumen](#openai-showcase-lumen) · GPT-6 Astra
 
 </details>
+
+---
+
+### Clockwork Courier — Unity 机械动作探索游戏
+<a id="ffffrrrr-cmyk-clockwork-courier"></a>
+
+[@ffffrrrr-cmyk](https://github.com/ffffrrrr-cmyk) · 社区 GitHub 演示 · GPT-6 Astra（作者自述的项目来源声明）
+
+_作者发布了一款 Unity 2.5D 机械动作探索游戏，包含可玩的 Windows 构建、代码生成的机械美术、检查点与存档系统，以及三张从游戏播放器截取的截图。项目来源记录将模型记为 gpt-6-astra；据作者所述，提供方快照与订阅核验仍待完成。仓库自带的验证报告写明：键盘通关、视觉质量与性能仍需人工测试。此处不声称游戏玩法或性能已经过独立验证。_
+
+**提示词** · _由作者以中文原文分享，此处不翻译、不转载_：[原始任务文本](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier/blob/main/Provenance/task-original.txt)。该任务以构建一款完整、可复现的 Unity 游戏的请求开头；这是一份项目规格，不是一条短的一次性提示词。
+
+[作者原仓库](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier) · [原始任务/提示词](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier/blob/main/Provenance/task-original.txt) · [作者的模型来源记录](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier/blob/main/Provenance/production-start.json) · [作者的验证说明与限制](https://github.com/ffffrrrr-cmyk/gpt6-Astra-ClockworkCourier/blob/main/Validation/verification-report.md) · [用 EasyVeo 复刻](https://easyveo.com?utm_source=github&utm_medium=referral&utm_campaign=awesome_gpt6_astra_prompts&utm_content=ffffrrrr_cmyk_clockwork_courier) · [返回列表](#all-prompts)
 
 ---
 
